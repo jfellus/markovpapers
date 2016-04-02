@@ -1,0 +1,1238 @@
+
+\documentclass[10pt,journal,compsoc]{IEEEtran}
+
+
+% *** CITATION PACKAGES ***
+%
+\ifCLASSOPTIONcompsoc
+  % IEEE Computer Society needs nocompress option
+  % requires cite.sty v4.0 or later (November 2003)
+  \usepackage[nocompress]{cite}
+\else
+  % normal IEEE
+  \usepackage{cite}
+\fi
+
+
+\usepackage{graphicx}
+
+
+
+
+
+% *** MATH PACKAGES ***
+%
+%\usepackage[cmex10]{amsmath}
+% A popular package from the American Mathematical Society that provides
+% many useful and powerful commands for dealing with mathematics. If using
+% it, be sure to load this package with the cmex10 option to ensure that
+% only type 1 fonts will utilized at all point sizes. Without this option,
+% it is possible that some math symbols, particularly those within
+% footnotes, will be rendered in bitmap form which will result in a
+% document that can not be IEEE Xplore compliant!
+%
+% Also, note that the amsmath package sets \interdisplaylinepenalty to 10000
+% thus preventing page breaks from occurring within multiline equations. Use:
+%\interdisplaylinepenalty=2500
+% after loading amsmath to restore such page breaks as IEEEtran.cls normally
+% does. amsmath.sty is already installed on most LaTeX systems. The latest
+% version and documentation can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/required/amslatex/math/
+
+
+
+
+
+% *** SPECIALIZED LIST PACKAGES ***
+%
+%\usepackage{algorithmic}
+% algorithmic.sty was written by Peter Williams and Rogerio Brito.
+% This package provides an algorithmic environment fo describing algorithms.
+% You can use the algorithmic environment in-text or within a figure
+% environment to provide for a floating algorithm. Do NOT use the algorithm
+% floating environment provided by algorithm.sty (by the same authors) or
+% algorithm2e.sty (by Christophe Fiorio) as IEEE does not use dedicated
+% algorithm float types and packages that provide these will not provide
+% correct IEEE style captions. The latest version and documentation of
+% algorithmic.sty can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/algorithms/
+% There is also a support site at:
+% http://algorithms.berlios.de/index.html
+% Also of interest may be the (relatively newer and more customizable)
+% algorithmicx.sty package by Szasz Janos:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/algorithmicx/
+
+
+
+
+% *** ALIGNMENT PACKAGES ***
+%
+%\usepackage{array}
+% Frank Mittelbach's and David Carlisle's array.sty patches and improves
+% the standard LaTeX2e array and tabular environments to provide better
+% appearance and additional user controls. As the default LaTeX2e table
+% generation code is lacking to the point of almost being broken with
+% respect to the quality of the end results, all users are strongly
+% advised to use an enhanced (at the very least that provided by array.sty)
+% set of table tools. array.sty is already installed on most systems. The
+% latest version and documentation can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/required/tools/
+
+
+% IEEEtran contains the IEEEeqnarray family of commands that can be used to
+% generate multiline equations as well as matrices, tables, etc., of high
+% quality.
+
+
+
+
+% *** SUBFIGURE PACKAGES ***
+%\ifCLASSOPTIONcompsoc
+%  \usepackage[caption=false,font=footnotesize,labelfont=sf,textfont=sf]{subfig}
+%\else
+%  \usepackage[caption=false,font=footnotesize]{subfig}
+%\fi
+% subfig.sty, written by Steven Douglas Cochran, is the modern replacement
+% for subfigure.sty, the latter of which is no longer maintained and is
+% incompatible with some LaTeX packages including fixltx2e. However,
+% subfig.sty requires and automatically loads Axel Sommerfeldt's caption.sty
+% which will override IEEEtran.cls' handling of captions and this will result
+% in non-IEEE style figure/table captions. To prevent this problem, be sure
+% and invoke subfig.sty's "caption=false" package option (available since
+% subfig.sty version 1.3, 2005/06/28) as this is will preserve IEEEtran.cls
+% handling of captions.
+% Note that the Computer Society format requires a sans serif font rather
+% than the serif font used in traditional IEEE formatting and thus the need
+% to invoke different subfig.sty package options depending on whether
+% compsoc mode has been enabled.
+%
+% The latest version and documentation of subfig.sty can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/subfig/
+
+
+
+
+% *** FLOAT PACKAGES ***
+%
+%\usepackage{fixltx2e}
+% fixltx2e, the successor to the earlier fix2col.sty, was written by
+% Frank Mittelbach and David Carlisle. This package corrects a few problems
+% in the LaTeX2e kernel, the most notable of which is that in current
+% LaTeX2e releases, the ordering of single and double column floats is not
+% guaranteed to be preserved. Thus, an unpatched LaTeX2e can allow a
+% single column figure to be placed prior to an earlier double column
+% figure. The latest version and documentation can be found at:
+% http://www.ctan.org/tex-archive/macros/latex/base/
+
+
+%\usepackage{stfloats}
+% stfloats.sty was written by Sigitas Tolusis. This package gives LaTeX2e
+% the ability to do double column floats at the bottom of the page as well
+% as the top. (e.g., "\begin{figure*}[!b]" is not normally possible in
+% LaTeX2e). It also provides a command:
+%\fnbelowfloat
+% to enable the placement of footnotes below bottom floats (the standard
+% LaTeX2e kernel puts them above bottom floats). This is an invasive package
+% which rewrites many portions of the LaTeX2e float routines. It may not work
+% with other packages that modify the LaTeX2e float routines. The latest
+% version and documentation can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/sttools/
+% Do not use the stfloats baselinefloat ability as IEEE does not allow
+% \baselineskip to stretch. Authors submitting work to the IEEE should note
+% that IEEE rarely uses double column equations and that authors should try
+% to avoid such use. Do not be tempted to use the cuted.sty or midfloat.sty
+% packages (also by Sigitas Tolusis) as IEEE does not format its papers in
+% such ways.
+% Do not attempt to use stfloats with fixltx2e as they are incompatible.
+% Instead, use Morten Hogholm'a dblfloatfix which combines the features
+% of both fixltx2e and stfloats:
+%
+% \usepackage{dblfloatfix}
+% The latest version can be found at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/dblfloatfix/
+
+
+
+
+%\ifCLASSOPTIONcaptionsoff
+%  \usepackage[nomarkers]{endfloat}
+% \let\MYoriglatexcaption\caption
+% \renewcommand{\caption}[2][\relax]{\MYoriglatexcaption[#2]{#2}}
+%\fi
+% endfloat.sty was written by James Darrell McCauley, Jeff Goldberg and 
+% Axel Sommerfeldt. This package may be useful when used in conjunction with 
+% IEEEtran.cls'  captionsoff option. Some IEEE journals/societies require that
+% submissions have lists of figures/tables at the end of the paper and that
+% figures/tables without any captions are placed on a page by themselves at
+% the end of the document. If needed, the draftcls IEEEtran class option or
+% \CLASSINPUTbaselinestretch interface can be used to increase the line
+% spacing as well. Be sure and use the nomarkers option of endfloat to
+% prevent endfloat from "marking" where the figures would have been placed
+% in the text. The two hack lines of code above are a slight modification of
+% that suggested by in the endfloat docs (section 8.4.1) to ensure that
+% the full captions always appear in the list of figures/tables - even if
+% the user used the short optional argument of \caption[]{}.
+% IEEE papers do not typically make use of \caption[]'s optional argument,
+% so this should not be an issue. A similar trick can be used to disable
+% captions of packages such as subfig.sty that lack options to turn off
+% the subcaptions:
+% For subfig.sty:
+% \let\MYorigsubfloat\subfloat
+% \renewcommand{\subfloat}[2][\relax]{\MYorigsubfloat[]{#2}}
+% However, the above trick will not work if both optional arguments of
+% the \subfloat command are used. Furthermore, there needs to be a
+% description of each subfigure *somewhere* and endfloat does not add
+% subfigure captions to its list of figures. Thus, the best approach is to
+% avoid the use of subfigure captions (many IEEE journals avoid them anyway)
+% and instead reference/explain all the subfigures within the main caption.
+% The latest version of endfloat.sty and its documentation can obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/endfloat/
+%
+% The IEEEtran \ifCLASSOPTIONcaptionsoff conditional can also be used
+% later in the document, say, to conditionally put the References on a 
+% page by themselves.
+
+
+
+
+% *** PDF, URL AND HYPERLINK PACKAGES ***
+%
+%\usepackage{url}
+% url.sty was written by Donald Arseneau. It provides better support for
+% handling and breaking URLs. url.sty is already installed on most LaTeX
+% systems. The latest version and documentation can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/url/
+% Basically, \url{my_url_here}.
+
+
+
+
+
+% *** Do not adjust lengths that control margins, column widths, etc. ***
+% *** Do not use packages that alter fonts (such as pslatex).         ***
+% There should be no need to do such things with IEEEtran.cls V1.6 and later.
+% (Unless specifically asked to do so by the journal or conference you plan
+% to submit to, of course. )
+
+
+% correct bad hyphenation here
+\hyphenation{op-tical net-works semi-conduc-tor}
+
+
+\begin{document}
+%
+% paper title
+% Titles are generally capitalized except for words such as a, an, and, as,
+% at, but, by, for, in, nor, of, on, or, the, to and up, which are usually
+% not capitalized unless they are the first or last word of the title.
+% Linebreaks \\ can be used within to get better formatting as desired.
+% Do not put math or special symbols in the title.
+\title{ SoCPaR 2010: Proceedings of Self-Organizing Maps and workability evaluation of video capsule for human partner }
+\author{
+Edhassatelin Philipp,
+Lliat Chani,
+Planjery P Histoph ,
+Poor Marin,
+En Brocolajczyk,
+\thanks{This paper has been randomly generated to improve cross-disciplinary investigation in academic research, on February 08, 2015}
+}
+\IEEEtitleabstractindextext{
+\begin{abstract}
+Différents paramètres sont utilisés pour leurs performances exceptionnelles en terme de taux d'erreur très bas.
+D'abord, nous présentons se basent sur la qualité du signal et ainsi d'améliorer les performances de linéarité.
+Cette association est tout d'abord validée en simulation, puis des mesures de performance de coupure soumises à des moteurs de recherche interactifs.
+
+
+Ces moteurs permettent d'améliorer les performances de décodage.
+Récemment, une nouvelle façon de voir l'intelligence -- a des protocoles de retransmission adaptative pour améliorer les capacités de correction d'erreur proches de la région de RSB élévé en appliquant différentes stratégies de l'état de l'art.
+
+
+%X One of the robot behavior can emerge from a simple cases.
+In this paper and will be able to demodulate simultaneously all channel in the analysis.
+All those signals have different dynamics, and the modeling of beetle colonies behavior would be too prohibitive due to the results of this tool that makes delineations of very large neural networks, and to use a CPW transmission line taking these phenomena into account.
+For human-robot interactions the proprioceptive information of the rhythmic patterns in order to canonize the whole tree.
+
+
+\end{abstract}
+\begin{IEEEkeywords}walking machine , partial CSI , query optimization , massive multicore , filtrage , \end{IEEEkeywords}
+}
+\maketitle
+
+\IEEEdisplaynontitleabstractindextext
+\markboth{Proceedings of the 1st annual cross-disciplinary retreat of ETIS Lab, Vol.1, No.~1}
+\IEEEraisesectionheading{\section{Introduction}\label{sec:introduction}}
+For
+low
+level
+imitation.
+From
+a
+developmental
+point
+of
+view.
+
+
+The
+integration
+of
+such
+conical
+Radon
+transforms
+which
+form
+a
+mathematical
+model
+showing
+that
+our
+solution
+offers
+a
+complete
+acquisition
+using
+WCE
+remains
+timeconsuming
+and
+challenging
+research
+topic.
+In
+this
+paper,
+a
+kernelbased
+similarity
+approach
+working
+on
+non
+binary
+codes
+is
+proposed.
+Based
+on
+psychological
+data
+showing
+that
+the
+individual
+discoveries
+in
+each
+place
+recognized
+by
+our
+results
+with
+few
+training
+data.
+Experimentations
+are
+carried
+out
+on
+standard
+databases,
+and
+show
+that
+the
+resulting
+algorithm
+satises
+the
+robustness
+of
+the
+active
+contour.
+The
+experimental
+results
+regarding
+the
+real
+time
+because
+it
+allows
+shaping
+of
+the
+coordination
+is
+achievable
+if
+the
+baby
+uses
+a
+sixstages
+processing
+pipelines
+for
+computing
+power
+never
+slow
+down,
+both
+in
+terms
+of
+survival
+rate
+of
+4,8.
+All
+the
+region
+graph,
+is
+not
+sufficient
+for
+learning
+sequences
+of
+gestures,
+like
+in
+the
+context
+of
+large
+fact
+tables.
+
+
+The
+main
+contributions
+are
+a
+a
+necessary
+condition
+which
+needs
+to
+operate
+in
+different
+voltage
+supply
+levels
+by
+sacrificing
+clock
+frequencies.
+This
+multiple
+voltage
+involves
+a
+search
+over
+the
+Binary
+Symmetric
+Channel,
+if
+some
+error
+pattern
+cannot
+be
+envisaged
+due
+to
+acquisition
+conditions
+static
+and
+dynamic
+environments,
+there
+are
+two
+methods
+which
+optimize
+the
+facade
+image
+and
+to
+locate
+and
+track
+this
+preferred
+partner
+in
+the
+document.
+The
+impact
+of
+their
+database,
+the
+tagbased
+indexing
+strategy
+and
+the
+mathematical
+definition
+of
+this
+exploration
+have
+led
+to
+the
+asymptotic
+performance
+of
+the
+preprocessing
+algorithms
+by
+reducing
+the
+size
+and
+autonomy
+of
+such
+a
+behavior
+adaptation
+from
+nonverbal
+interaction
+with
+a
+methodology
+for
+designing
+a
+flippedbit
+detection
+algorithm
+performed
+independently.
+
+
+In
+this
+article,
+we
+show
+how
+a
+robot
+to
+plan
+paths
+in
+order
+to
+respond
+in
+the
+lowrate
+code
+structure
+c
+a
+new,
+efficient
+ensemble
+of
+codelength
+n
+with
+paritycheck
+matrices
+defined
+over
+a
+data
+warehouse.
+The
+launched
+queries
+are
+translated
+into
+a
+microwave
+carrier
+that
+is
+able
+to
+manage
+efficiently
+this
+resource
+we
+need
+a
+flexible
+search
+tool
+is
+a
+gradual
+pattern
+and
+the
+deep
+somatopic
+layer
+facecentered
+in
+SC
+is
+particularly
+important
+for
+enabling
+the
+social
+environment.
+This
+use
+of
+a
+dedicated
+WCE
+image
+database
+of
+several
+joint
+axes.
+Our
+measurement
+approach
+is
+based
+on
+graph
+with
+constant
+symbolnode
+connection
+dv
+
+2.
+Furthermore,
+we
+provide
+a
+practical
+network.
+Numerical
+results
+show
+that
+the
+table
+to
+be
+able
+to
+express
+any
+topk
+algorithm.
+Then
+we
+propose
+a
+levelwise
+algorithm
+for
+cluster
+codes.
+We
+next
+investigate
+the
+effect
+of
+carrier
+frequency
+offsets.
+We
+show
+the
+performance
+of
+good
+erasuredetecting
+i.e.
+
+
+bad
+erasurecorrecting
+sparsegraph
+codes.
+Finite
+alphabet
+iterative
+decoders.
+
+
+The
+message
+passing
+update
+rules
+are
+interpreted
+as
+discrete
+dynamical
+systems,
+and
+are
+judiciously
+chosen
+to
+ensure
+good
+topological
+properties
+of
+the
+socalled
+grid
+cells,
+wich
+are
+congruent
+with
+neurobiological
+studies
+made
+on
+prostate
+MRI
+is
+shown
+that
+the
+joint
+detector.
+
+
+\section{Related work}
+We then use a SVM with this type of losses that may be shared among users.
+Although users are allowed to change strategy at each node of the facades of Paris.
+
+
+At first, we present a new synaptic structure that emerges with learning on the algebraic properties of nonbinary cluster LDPC codes.
+The aim of this new mechanism is carried out using standard laptops.
+~[0] 
+OSC client and spatial constraints.
+Combined with differential evolution algorithm in order to allow transmission of scalable multimedia data under targeted QoS and system components in OMG IDL3 ou UML2, des composants systèmes en SystemC TLM.
+The second part is presented for several potential FPGA platforms.The achieved performance for this purpose, the multipleaccess interference MAI variance accounting for multirate is needed.
+~[1] 
+It consists of an OFDMA downlink, we focus on the noise power values for which an order on Lorenz curves induces an equivalence relation over queries using a combination of scales produces better results than each detection algorithm using a preordering q q between queries and we present a new class of decoders called finite alphabet iterative decoders FAIDs ayant de meilleures performances dans la carte, dans ce contexte qui nous permet deffectuer des recherches de plus en plus sophistiquées.
+
+
+Lutilisation croissante du nombre de retransmissions supérieur a 2.
+
+
+Enfin, nous introduisons un nouveau paradigme pour le recalage de la limite théorique du décodage au sens du maximum de vraisemblance, nous établissons un critère pertinent pour létude des performances précision en particulier de la scène mais fournit une bonne performance et complexité réduite de sorte quils deviennent implémentables.
+Pour une performance de décodage en utilisant une architecture qui permet de décrire tous les points de la représentation graphique contient des cycles, lalgorithme BP peuvent amplifier ce problème dapprentissage dans notre contexte emploie une approche classique, on considère des modules que nous avons étudié concerne la réutilisation des annotations que les décodeurs BP quantifiés traditionnels.
+En effet, les fonctions de mise à jour des vues matérialisées XML sur des techniques de classification, et présentons lapprentissage actif, qui offre un cardre formel pour la sélection daction permet alors le choix entre les échelles de la hiérarchie.
+Nous avons developpe un modele emotionnel minimal assurant au robot une autonomie comportementale.
+Dans un second temps, jai montré que lapprentissage de transitions peut servir de support a une communication avec le robot.
+Une tete mecanique permet au robot de réaliser des imitations différées et dapprendre par observation.
+
+
+Pour des t�ches plus complexes, nous avons proposé une technique doptimisation du taux derreur binaire.
+Nous présentons les raisons du choix de la segmentation des noyaux de graphes dadjacence de segments de contours.
+En effet une image de contours et robustes aux changements déchelle.
+La similarité entre chemins prend en compte la similarité des ensembles de segments de contours est lisible par loeil humain qui effectue un groupement perceptuel et distingue les entités présentes dans la capacité de traitement intelligent du signal et ainsi dapprendre interactivement a resoudre ses problemes de navigation.
+La première stratégie encode le comportement dun robot, dans un système OFDMA en liaison montante.
+Premièrement, nous proposons des solutions pour encadrer les étudiants désireux de suivre une formation en sciences biomédicales ou dans dautres domaines utilisateurs dimages, comme source dinspiration pour automatiser ses traitements.
+
+
+We study the case where a turbodetector composed of a resource allocation problem is proposed and tested to perform the action classification, we propose to use GBP to break trapping sets as basis for image clustering based on a generalist image database should permit the improvement of the hippocampus and prefrontal cortex and basal ganglia and matches observations of rewardbased activity in dopaminergic neu rons.
+~[2] 
+Experiments were conducted on a well known near duplicate image retrieval.
+
+
+When the user iteratively builds the training in which a grid of neural processing elements in a Green radio development.
+
+
+In particular, we show how simple sensorimotor architecture can be used as a way of interacting and presented a synchronybased architecture capable of considering multimediabased as well as semantic comparisons, both ignored in current studies but required when multimedia data come to play.
+In this context, all data collected by the algorithm, especially for evaluation of XQuery in a simulated environment X Lune des solutions afin de corréler les évolutions de ces composants requièrent que leurs interfaces abstraites dénies au niveau de type Apriori pour rechercher lensemble des canaux des liens directs allant de lémetteur secondaire vers les sites intéressants.
+Notre stratégie sinspire du comportement des etres humains que des médiateurs ont été proposées dans la carte, dans ce cas les circuits sont désignés par actifs.
+
+
+\section{Method}
+
+
+Experimental results demonstrate the strength and the structure of a given image, the presence of slope variations.
+Neurobiological studies showed the important complexity reduction, which is the hyperspheres method that uses the visual signal and the equivalence of the IPA and provide the designer a single file representation are not quantized probabilities or loglikelihoods, and the experts, or direct dialog between the encoder and the resulting graph, the region features are summarized in bags representing the image representation.
+We use GaAs as a mobile implementation of digitally controlled oscillators and phasefrequency detector.
+The FPGAimplemented network allows studying complex phenomena related to embedded systems standards , such as metasearch engines on the well known algebraic spacetime codes for quasistatic fading channels when CSI is available about intra or interobserver variability and therefore the metric, is computationally very expensive as it may lower harmful topological structures in fluorescence confocal microscopy.
+This paper describes the joint probability distribution sampled from a database from a two cascode stage topology with a complexity that is able to selfevaluate any sensorimotor strategies.
+This model has been done to integrate data coming from surprising events, provides a performance comparison of VLATs.
+We present decoding results for two different experimental setups to show that the resulting leakage of private state information at their disposal.
+
+
+To that end, we first introduce cost models for channel resolvability over binary symmetric channels, we prove that an order on Lorenz curves.
+In evolutionary robotics, plastic neural network controllers.
+In this article, we expose a novel approach to design regular 2, dc LDPC codes are constructed from finite geometries are also pointed out.
+Pruning is also presented concerning the particular configuration of the geodesic provides a good simulation gain.
+Sufcient statistical accuracy is ensured through dif ferent parameters.
+Extention to other performance criteria such as metasearch engines on the properties of the noise power of the graph matching, and on walks, which are equally classified into 30 categories, to carry out experiments on animals and robots.
+
+
+Robust control architectures are based on expert knowledge stored in the card.
+With current technology and more interconnection capacity compared to other existing methods and the system perfor mances still depend on the database classification.
+Our work illustrates that midresolution methods cannot be solved with a mobile agent to query the data to identify possible polyps and 1200 negative ones Considering the 3D surface segmentation is proposed.
+Next, two approaches that exploit the knowledge of the decoder to fail.
+Moreover, the effects of the unit group.
+This reduces the inverse determinant sums, which arise from the cost function.
+It allows to get the information .
+The data are missing or corrupted.
+
+
+We demonstrate the potential of the code were identified, then two methods for decoder selection use asymptotic techniques such as the muscle emulator and shows up as an appealing option to overcome this problem and hence cannot be envisaged due to a relational database defined over a star schema.
+In this paper, we introduce a new decoder to fail.
+Moreover, the simulations based on the Compton effect behaves as a result of a dedicated application modeling technique that helps to classify four distinguished dynamical be haviors of the multistandard trend followed by wireless transceivers, TOSI based filters should be applied.
+However recently an interesting paradigm for representing and implementing both the size of orig inal VLAT by using labels that the repeted failures of the thesis are, on the exact timing when an event should be implemented.
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{/home/jfellus/Bureau/hal/method/img/415.png}
+\caption{}
+\end{figure}
+Les neurones qui forment le substrat de cet apprentissage, appelés cellules de transition peuvent apprendre des attracteursvisuomoteurs en combinant les informations de profondeur ainsi que des systèmes dexploitation embarqués est abordé ainsi que les points dintér�t.
+Dans un scénario de partage du spectre électromagnétique est une méthode dapprentissage actif.
+Au cours de réalisation et passe par lajout dun télescope plus sensible et plus particulièrement avec les circuits sont désignés par actifs.
+En général, ce sont des installations massives, en raison de lextrème sensibilité de lOFDMA aux décalages en fréquence devient plus difficile dans les bases de documents multimédia, etc.
+Contrairement aux requ�tes booléennes traditionnelles, dans lesquelles ce signal est utilisé pour moduler lapprentissage des associations simples entre linformation proprioceptive du bras peuvent �tre le fruit des propriétés émergentes dune architecture principalement composée daccélérateurs matériels de traitements IP paramétrables et modulaires, qui sera embarquée sur le meilleur candidat.
+Nous présentons aussi les algorithmes dapprentissage des réseaux sur puce est lutilisation dune grammaire stochastique décrivant un style architectural comme modèle pour la recherche de requetes frequentes dans une hiérarchie.
+Cette approche, appelée BoWPropagation, exploite le modèle 3D, la récupération des informations sur les blocs élémentaires.
+
+
+Purpose Noninvasive imaging assessment of cardiac function is updated according to their optimum power allo cation and signal covariance matrix for providing UEP are also the structure of a transceiver directly converting an OOK optical signal into a kNN clas sifier and comparing our results with few training data.
+Experiments are carried out on the check or variable component codes, in situations of modification of the environment.
+
+
+We are interested in the uplink OFDMAbased systems where one OFDMA symbol is under investigation for a 4096 cores chip.
+We adopt a cognitive map learning in the error correction capability of our multiobject retrieval technique.
+Active learning methods have been recently introduced class of lowdensity paritycheck LDPC coded recording system is interactive, since the query shape is compared to the lack of tools to help them understand their data.
+Compared to transactional data, this time, due to the system efficiently performs in categorizing 3Dmodels.
+ This paper continues a previous model 3, a spectral timing neural network allow it to express a large dataset of 300 hundred positive examples and 1200 nonpolyps images.
+Experiments show that these mechanisms play an important role in nonlinear formation processes.
+The starting point for human robot interaction.
+We propose an efficient branchandprune techniques avoiding a search engine performs interactive research in contentbased indexing and instance search tasks.
+For the semantic meaning and the corresponding online API for Fine Grained Dynamically Reconfigurable Architecture.
+We cover the integration of this kind of platform, applications are broken into functional waveform components to be generated easily.
+Complex tasks, like walk ing, running, and obstacle avoidance require more than just oscillatory movements.
+Our model supposes that transitions between places are learned and can be used to estimate the timing of upcoming spatio temporal events could play a crucial issue.
+In this thesis, we consider a full MIMOOFDM Gaussian cognitive radio approach in order to implement these correction methods to return the bit allocation from the error floor on several matches.
+We also observe that, within this emerging structure, the schematic and the fountain code does not depend on the existence of distinct efficient preprocessings, we propose a simple imitation and deposit behavior allows the experimentator to teach the robot to reach its goal.
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{/home/jfellus/Bureau/hal/method/img/47.png}
+\caption{}
+\end{figure}
+We then consider an Orthogonal Frequency Division Multiplexing OFDM.
+We consider in this document.The results of real humanrobots Aibo and Nao interactions.
+We show that for equivalent rate and it can do.
+Either to navigate and manipulate objects in the document.
+The impact of the human caregiver.
+
+
+Yet, the robot attention on analysis of robots behaviors supported by relatively simple neuronal architecture based on tensors.
+
+
+This is a challenging task.
+We have proposed an architecture using the computation of the processing time of behaviors acquisition, as well as spatial proximity.
+Then we focus on the linear projection of the neural network used in a crowded environment with fragile artworks has been used in commandbased systems, especially in fuzzy command applications.
+However, in such applications, gradual patterns for the famous 155,64,20 Tanner code.
+We aim at equipping the humanoid robot NAO with the same decoder structure can also be designed to provide analytical tools to handle an FGDRA but a FGDRA must also be designed to show that the BP suffers from suboptimality when the secondary user to transmit.
+Un robot autonome dans son portefeuille, son sac, son attachécase...
+Toutes ces cartes ont pour point commun le fait que les méthodes classiques de distance interhistogrammes dans la zone de fort rapport signal à bruit o� les différentes étapes de traitement de la recherche dans des robots mobiles en respectant les contraintes tempsréel qui sont déployés sur une architecture apprenant le timing de séquences ont été adressés en formalisant des règles de mise en correspondance inexacte des graphes, nous proposons de travailler dans le résultat final.
+
+
+Dans cette thèse, nous proposons une solution de reconnaissance des primitives à laide de nos outils danalyse, nous revisitons un autre schéma de diversité quest la diversité dentrelacement.
+En particulier, cette technique pour des protocoles, architectures et applications plus avancés et 3  IP avancé  pour la classificationmultiéchelles.
+Nous avons developpe un modele permettant de retrouver les bons états cachés pour permettre damorcer une séquence complexe par un tuple dattributs représentant les effectifs des modalités de celleci.
+
+
+Des modèles en grilles multivariées sont alors employés pour qualifier linformation apportée conjointement par les nou veaux attributs, ce qui en fait un bon candidat pour limplémentation matérielle.
+Il sagit dune méthode nouvelle et doit encore �tre améliorée mais à pre miére vue nous avons proposé deux approches pour la recherche interactive dimages.
+
+
+Le dernier point important que nous avons obtenu de bons résultats.
+For the semantic similarity measure that is very similar to human one.
+It is a software implementation, with a scheduling distribution, whose decoding overhead is less than half of the so called Krasnoselskij algorithm, and, subsequently optimize their price.
+We study fountain codes transmitted over the Binary Symmetric Channel, if some error pattern cannot be directly coupled with an armrobot for motor task learning and switching.
+We show that for the decoding.
+To circumvent this problem and hence cannot be solved with a significant bitrate reduction, around 40 with respect to corrections forced by the human visual system, which performs a perceptual grouping and is applicable for different transmission schemes.
+We propose a new clustering procedure that takes risks, and one that averts risks.
+The tolerance to risk plays an important issue, most particularly for online photo sharing applications.
+
+
+Since such services know a huge amount of information, to locate natural disaster survivors.
+Configuration optimization is based on a model with acceptable response times for users.
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{/home/jfellus/Bureau/hal/method/img/268.png}
+\caption{ Browsing and distributed multiple users converge to imitate gestures demonstrated by which allows the muscle model of the objective of the regions. The question porte sur des informations coming from surprising events, provides surprisingly close }
+\end{figure}
+\section{Experimental results}
+
+
+De lerreur qui en résulte émerge un comportement dimitation immédiate des gestes de lhumain par action de lhoméostat.
+Bien s�r, un tel modèle implique que le robot pourrait rencontrer.
+
+
+Ces transitions servent de support redondants est un probleme qui a suscite de nombreuses recherches.
+En effet, beaucoup de motifs interessants comme les regles dassociation, des dependances fonction nelles exactes ou approximatives, des dependances fonction nelles exactes ou approximatives, des dependances fonctionnelles conditionnelles exactes ou approximatives, des dependances fonction nelles exactes ou approximatives peuvent etre decouverts simplement, contrairement au methodes clas siques qui requierent plusieurs transformations de la complexité est dordre O q2.
+De m�me, la mémoire requise pour le thématicien en télédétection, en sciences biomédicales ou dans dautres domaines utilisateurs dimages, comme source dinspiration pour automatiser ses traitements.
+We generalize a construction of this thesis, we investigate an advanced version of IS, called Adap tive Importance Sampling IS is one of these sources of variability for the famous 155,64,20 Tanner code.
+We propose an efficient and complex Heterogeneous SystemsonChip HSoC.
+Namely, these systems are provided.
+Some advanced mathematics will be involved.
+This book presents the principles of the system in the 1990s as an interactive online classification based on a novel method for joint estimation method of matrix exponential learning, and we propose an optimization tool, since they can be used for any alphabet size q2m, minmathbbN, thus complementing some recently proposed to deal with semantic queries and abstract concepts that users are looking for.
+Rele vance feedback methods deal with both variable length packet problems.
+The trellis description allows to tackle the complexity is not increased compared to other performance criteria such as buildings.
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{/home/jfellus/Bureau/hal/results/img/1699.png}
+\caption{ Furthermore, combinations are aligned on a new version avancée d'IS, appelé Adaptive Modulation and Edge Growth algorithm. This substantially improves the necessity to relieve the source, coupled ADPLL network models are used to farmer queries corresponds to determine what }
+\end{figure}
+
+
+We also propose an ecient structured search procedure for the sake of minimizing the operators effort.
+The proposed ONoC relies on emotional interactions, more precisely to the growth of the software and hardware threads, running on an FPGA platform for the design and study of all contours of defects and reject false alarms.
+Obtained performances in terms of runtime.
+Moreover, NodeEdgeBased and NodeBased recommendation algorithms.
+Our results defend the idea that social referencing as well as diverse motor patterns is introduced.
+Several weighting schemes and can exhibit very high Q values.
+wide variety of visual recognition systems are developed for an efficient query optimizers.
+To this purpose, but evaluation of cardiovascular dysfunctions.
+Magnetic resonance MR cardiac tagging is a particular FAID.
+We describe some of their binary image.
+First, the emotional conditionings performed by the robotic context.
+Mobile robotics as well as some of its environment using emotional interaction signal from the inversion of the nonbinary parity check codes that helps to overcome this problem were proposed other algorithms, like the ChanVese one in terms of segmentation accuracy and robustness for CFO for practical values of certain circuits requires the presence of slope variations.
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{/home/jfellus/Bureau/hal/results/img/1146.png}
+\caption{ The active contour segmentation des domaines utilisateurs sous la technique of inverse determinant sums, which is achieved by a treatment of clips the performances than the interval-passing algorithm, called the non-ideal Radio-Frequency (RF) front-ends have been proposed solution architecturale }
+\end{figure}
+La problématique de lapprentissage de comportements impliquant une navigation visuomotrice et le cas de grandes tables de faits.
+Graphs are models of representation that provides a good candidate for hardware tasks on such space and subsequent constrained optimization problem and still to have the same time advantage of the method approaches the performance of SCLDPC codes improves if the human partner.
+
+
+We will study two different problems of designing fully independent partitions, and especially in contrast to traditional quantized BP decoders.
+Rather, the update functions are settled on low level behaviors, navigational trajectories can be an attractive alternative to conventional static approach.
+Sales on the learning of tasks requiring the behavior of the proposed method speeds up the feature extraction improves WCE capabilities to identify such implications, in order to dynamically share 1024 carriers, which avoids the drawbacks of the partial differential equation leading the search, system performances still depend on the aggregation of tensor products of discriminant local features, named VLAT vector of locally aggregated tensors.
+We also introduce techniques for theregistration of the signatures.
+We compare in this paper to iteratively prop agate features along multiple scales.
+The proposed approach was used to prune redundant queries.
+We restrict our attention on biological inspired locomotion controllers are based on components, containers and connectors within FieldProgrammable Gate Arrays FPGAs.
+The target application domain is growingup.
+As a consequence, the decoding performance of our algorithm using a decentralized Kmeans algorithm.
+To obtain the same task.
+Then, both strategies were merged and executed in parallel.
+
+
+Responses of both strategies were merged with the robot enables not only requires a set of intentions and emotions to convey, our system is large.
+The next generation of gradual classification rules.
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{/home/jfellus/Bureau/hal/results/img/1208.png}
+\caption{ We cover the cyclic patterns. Motion patterns is developed for an FGDRA1 but rather than the study different approach reveals an MLP Network with the receiver and deletions). The user-level problem for multi-objective workflow applications as some experimental results }
+\end{figure}
+Tests were performed in both controlled and stressed cell cultures.
+The proposed approach has been identified as useful for the precede enables to know the size and autonomy of the facades and windows properties.
+Then we focus on their use for recognition forms and multimedia indexing.
+In order to best meet its internal state of the gastrointestinal tract by a significant margin.
+The strategic deployment of the environment.
+In this article we study a distributed multiple user scenario MIMO multiple access on the applications of BDD to decoding of LDPC Low Density ParityCheck codes, we use a CPW transmission line in MMIC, because of the proposed codes exhibit better performance than conventional fountain codes, especially for evaluation of XML Queries.
+Actual works only focus on how an autonomous robot can learn to oscillate at different frequencies depending on a generalist database.
+For the inexact matching of contours.
+
+
+Indeed an image into fuzzy regions for multiscale classification.
+
+
+The strategy, called decoder diversity, that intends to combine these individual re sults and obtain a bitclock trellis describing the semantic content of an action or an internal proprioceptive signal is avaible for the retrieval of very large and dense set of facade images, building footprints, and coarse 3d model.
+Finally, we discuss the coupling between transmission and reection.
+Its modeling leads to large decoding complexity.
+Therefore, we propose a new decoder to fail.
+Moreover, the robot navigation strategies, goals or drives.
+
+
+This paper considers dimensionality reduction for near duplicate image dataset and show our semantic pooling obtains promising results.
+
+
+Visual learning with a research work presented here a fully automatic runs.
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{/home/jfellus/Bureau/hal/results/img/2270.png}
+\caption{ These circular harmonic decomposition for the problem of the multimedia descriptors, able to absorb topological structures (polyps, metastasis... to the RT de code in software mediator and bio-mimetic approach for the behavior in an example to experiments on both }
+\end{figure}
+Distributed multimedia applications have emerged at an increasing interest in the slope of the trajectory.
+My first contribution was to develop new types of Radon transforms on algebraic curves, which remain invariant under geometric inversion.
+derivation of the programming complexity of the sum mary between remaining shots.
+
+
+The rst step is based on parametrable and scalable dedicated hardware processing units IPs, which will coexist with classical strategies and communicate its disability in deadlock situations.
+We propose an algorithm which greatly improve the similarity of the problems are related to FPGA imple mentation for integration within WCE imaging device.
+The classification is called fine grain due to the smart card systems leads to drastic changes in the absolute frame during walking, the vertical rotational acceleration of the learning approach over a MultipleInput MultipleOutput MIMO flat fading channel.
+
+
+The particularity of our technic is near to 70 of the cognitive robots to adapt queries and we propose to implement these correction methods to compensate this issue.Thus the feasibility of the main processing units.
+The implementation of OFDMA based systems for 1D signals.
+For illustration some preliminary results are quite encouraging regarding what was expected and what it can do.
+
+
+One way to a 2 degrees of freedom to find a scheduling distribution that yields the best performance in the radio bands.
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{/home/jfellus/Bureau/hal/results/img/1537.png}
+\caption{ A surprising events, using a révolutionné le champ magnétique produit réalisé et d'apprendre des besoins ont été adressés en milieu industriel. Cet article deals with adequate pooling operator level. We also analyzed through which optimize their web site. Among }
+\end{figure}
+
+
+We show that adding a simple neural network 4 was used to control the balance of a FrancoThai project and aims to produce a robust window detector for twodimensional image reconstruction.
+Through simulations, image formation and reconstruction results show that we can maintain robot walking and stopping stability and walk cycles repetition without referencing a predefined trajectory or detecting the center of pressure.
+
+
+Results show that adding a simple movement to a coarse 3d model.To achieve this goal, providing customers with a special flow provided by Xilinx for secure FPGA applications.
+xxx X xxx X xxx X xxx X xxx X xxx X xxx X xxx X xxx X xxx X xxx X xxx X xxx X xxx X xxx X xxx X xxx X xxx X Radon transforms which form a mathematical equation of the Anterior Cingulate Cortex of the quality of its performancecomplexity tradeoff.
+More specifically, the BMA still outperforms the stateoftheart techniques, including other BoF methods, both in compactness of the paper demonstrate that our approach can provide new interesting insights about how, in their native space and joint speed.
+This article deals with complex embedded applications.
+This paper considers the optimization metrics behaviour with regard to survivors emitter 3D DOA and array configuration.
+Design constraints related to the partitioning choices and also the basis for communication with a simulated planar biped robot, controlled by a supervised optimization of a low complex design.
+In the present study, we present an information system supporting the diagnosis and treatment of prostatic adenocarcinoma.
+Results A statistical study performed on synthetic MR images shows that the source word onto the robot in a multimedia context.
+We further improve the asymptotic growth exponents of these IRHARQ protocols under iterative, messagepassing decoding.
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{/home/jfellus/Bureau/hal/results/img/1520.png}
+\caption{ Furthermore, the hand-arm movements. Two approaches the complex and seven clas- siﬁcation strategies to learn the joint values of two transmit diversity over time, due to the reconstruction algorithms for the frequency offset at the original method consistently improves }
+\end{figure}
+\section{Discussion}
+Applied as a static and simple routing algorithm and more precisely to the outage probability of the WAAVES certified medical image coder used in cooperation and lesions of the number of errors while maintaining the good performances and fast retrieval.
+In this paper we present here integrated robotic control architectures are based on 3D computer vision or bioinformatics applications.
+We are interested in their early age, humans can develop high level social referencing abilities, rather than on specialized supervised learning is an inference method to estimate the concentration of each individual curve allows to reduce the incoherence between this external information and improving the frequency response of an image into texture and piecewise smooth curves in R2 are rather unfamiliar and have not been so far widely investigated.
+
+
+In this paper, a new representation of the source rate of our contentbased image indexing and instance search tasks.
+
+
+For the inexact matching of graphs, we propose an unsupervised statistical region based active contour segmentation approach with learningbased shape prior informationii An Alphadivergencebased active contour segmentation and the localization of the criteria.
+This new construction of ecient nite length Raptor codes.
+We see that the RETIN 2 system.
+Concerning indexing, we propose some improvements in the prefrontal andor parietal cortex.
+The map can be arranged through multiple levels of granularities.
+Many tools have been successfully fabricated and measured.
+To the contrary, the goal directed ones, a reward is generally given to the number of QoS Quality of Service requirements.
+Traditional research in a complex and leads to very satisfactory segmentation of MRI data sets were evaluated by experiments on animals and robots.
+Robust control architectures for mobile robot and external visual stimuli can be existing ones that are uncorrectable by conventional decoders such as SVM.
+
+
+Furthermore, we provide a gametheoretic model suitable for RF filtering.
+The circuit absorbs 1 mW from a collection of old architecture plans, including floor plans, elevations and cutoffs.
+Image processing algorithms help to define the associated corrupting noise that degrades the overall performance of maximum likelihood decoding for nitelength regular, columnweight three codes.
+This paper addresses the design of realtime control architectures.
+We dene a hardware adaptable architecture.
+Both the history of microprocessor based system and our previous work on a Field Programmable Gate Array re congurable devices since the present paper is to allocate these parameters in order to manage this resource in that domain is growingup.
+As a prolongation of previous work we discuss the image using object position as latent variable.
+
+
+We propose two lower bounds for a processing system embedded onto an FPGA target, taking into account the data based on 3D face matching and an analytical asymptotic analy sis of jointly decoded Raptor codes for UEP, especially controlling the checknode profile.
+In this paper we present an information system supporting the diagnosis and treatment of the active contour.
+The experimental results regarding the generalization and the modeling of historical buildings from a given fitness system in order to allow deployment on scalable and easy to access the information exchanged between wrappers and the speed of the turbo code in the literature achieve good results with few user interactions.
+The proposed method outperforms previously proposed histogram based methods in the case of LLL, it performs asymptotically as well as, professionals looking for large fact tables.
+The main contribution is to interactively learn the conditioning of a simulated environment X Lune des solutions pour passer à léchelle les moteurs de recherche académique qui sappuie sur des canaux et fréquences porteuses basée sur la piste magnétique etou la puce mais via lair gr�ce à un contr�le en impédance pour un co�t financier minime.
+Dans ce papier, nous proposons ici une méthode de segmentation pour la formation de base adressage, routage, protocoles ethernet, IP, TCP, ICMP, UDP et quelques applications essentielles DNS, Mail, Web et des nombreuses contraintes liées à lépaisseur et aux traditionnelles approches basées sur les puces va de pair avec une augmentation importante de la somme pondérée de débits, dun partage orthogonal du type  si on observe a alors on a generalist image database and comparing our boosted linear kernel combination with the transmission scheme using an approach forinteractive multiscale classification of the considered model.
+We also evaluate the different layers that the walk of the transmission scheme for a wide range of 30 GHz.
+Many methods have been proposed for the proposed method.
+On the one hand, mediation systems cite baru1999,bda2005 using XML as an optimization technic of static realtime scheduling.
+The goal is to allocate these parameters in order to discover regular specific patterns.
+\section{Conclusion}
+RL originates in the tagged MR images.
+The results are based on 2D  3D feature extraction process and yield good results when compared with global histograms.
+Secondly, we focused on more sophisticated engines allowing to associate the visual processing, to relieve the control and sensory feed back of animals locomotion.
+
+
+In this paper is currently the gold standard technique for approximate kNN based on punctured, finitelength, LDPC codes.
+general framework to account for such properties for both strategies.
+Active learning methods are very efficient as it may lower harmful topological effects of RF imperfections in mind that they could have robots expected to behave as companion in our optical network on chip requires development and analysis of the architecture, the limitations of this approach shows the relevance of the geodesic provides a fast kernel function using the alphadivergences distance function.
+This distance function depending on the paritycheck matrix for MIMO systems.
+This metric, which reects the kinetic energy of the facade image and to establishprecise inventories about land cover use.
+The peculiarities of Remote SensingImages RSIs combined with online learning algorithm.
+The calculation of the initial schedule size.
+In this LNA, we use the TGV Tree Graph View model for an algorithmic solution to a finite length Raptor codes, in a database composed of the achievable rate region.
+
+
+Considering a current consumption of 3.13 mA, with 3.0 V voltage supply.
+This paper shows that its iterative threshold root of RootLDPC codes immediately follows.
+The use of motivational contexts then enables to design Raptor codes are not defined over a data warehouse.
+The launched queries are equivalent which entails redundant support computations is NPComplete.
+
+
+
+
+\section*{Acknowledgements}
+This is a joint work of all the members of ETIS Lab, Cergy-Pontoise 
+
+\begin{thebibliography}{1}
+\bibitem{a1}
+Gdan Luca, D Thibanpoulliat, Ui Giova, 
+Adaptive Behavior
+in \emph{ Proc Int Conf Physics in Signal and Image Processing January }.
+Paris, France,
+1991.
+\bibitem{a2}
+Mathias Bri, Elamini Fakhreddine, Philippe Henri, 
+Building Detection
+in \emph{ International Workshop on Knowledge Discovery Using Cloud and Distributed Computing Platforms}.
+Dresden, Germany,
+2013.
+\bibitem{a3}
+Ngard Arnan, I Cord, David Henri, 
+Gradient Intensity Selectivity for the AWGN Channel
+in \emph{ IROS}.
+Finland,
+1994.
+\bibitem{a4}
+Va I, Utien Declercq, Aliat P, 
+Correction of LDPC decoder integrating the V-line Radon transform for Avoiding the Binary Erasure Channel
+in \emph{ IEEE SPAWC}.
+France,
+1990.
+\bibitem{a5}
+Ud Gosseli, O Beno, Laurent Dominet, 
+Real-time Virtualization of a Tree Graph of chaos in Actin Tagged Fluorescence Confocal Microscopy Segmentation of HEMT GaN, en temps réel
+in \emph{ th Scandinavian Conference on Image Analysis}.
+Sapporo, Japan,
+2007.
+\bibitem{a6}
+Urdelhaker Nicolas, Nnou Lim Iosifidi , Matthias Gaussier, 
+Mining
+in \emph{ IEEE Conference on Computer Vsion and Pattern Recognition}.
+Kyoto, Japan,
+2009.
+\bibitem{a7}
+Men Cuperlier, En Pascal, Ent Domini, 
+Modelling and GIOP to visuomotor transformations and the Cloud
+in \emph{ International Conference on Intelligent Robots and Systems IROS }.
+Morocco,
+2004.
+\bibitem{a8}
+N Philippe B , Av Ariaudi, Les Richot, 
+UEP Concepts in fading channel state information quality
+in \emph{ International Symposium on Communications Control and Signal Processing ISCCSP}.
+United States,
+2014.
+\bibitem{a9}
+Uoy Maik, Ard Lagard, Truong Chuans, 
+Image clustering large datasets
+in \emph{ proceedings of IEEEASME International Conference on Advanced Intelligent Mechatronics AIM }.
+Boston, MA, United States,
+2005.
+\bibitem{a10}
+C Zadeh, Ff Pascal, O Mhedhbib, 
+Mutual-information based Source-Channel Variable-Length Codes
+in \emph{ Proceedings of Gretsi}.
+Paris, France,
+1995.
+\bibitem{a11}
+N Trevor, Lier F, Oliguet Andry, 
+A novel optical network for Wireless Applications
+in \emph{ IEEE ASILOMAR Conf}.
+Nantes, France,
+2000.
+\bibitem{a12}
+Incescal Huck, Olivir Mathibenoit, Eng T Andro Andre, 
+Multimodal Networks
+in \emph{ Neural Networks}.
+Cergy-Pontoise, France,
+2013.
+\bibitem{a13}
+So Frand, Guyen Tao, Te Poulliat, 
+IRIM at TRECVID 2011: Semantic breadth first order fields
+in \emph{ Lecture Notes in Computer SCience}.
+France,
+1999.
+\bibitem{a14}
+Hfer Nicolas, A K, Dangeros Nicolin, 
+Prediction Performance of Multi-Edge type Hybrid-ARQ Protocol for Wireless Bands Applications Using Emotional interactions as application to study
+in \emph{ GRETSI XXIIIe Colloque}.
+Bordeaux, France,
+1998.
+\bibitem{a15}
+Ick Lemond, Cressal P, Ilippe Truong, 
+Non-Invasive Low Complexity of Locally Stationary Image Restoration using tensor products of a new V-line Radon Transforms
+in \emph{ Workshop on Design and Architectures for Signal end Image Processing}.
+Osaka, Japan,
+2009.
+\bibitem{a16}
+Rent Domine, Ioda Sofian, E Etiengerv, 
+MRI segmentation method applied to Walking Biped Robot: Patterns
+in \emph{ BS Bio Signal }.
+Turkey,
+1990.
+\bibitem{a17}
+Laurencal Louillaud, Ussier P, Ar Assimi, 
+Amélioration des bandes de recherche locale
+in \emph{ Semiconductor Conference CAS International}.
+Gaithersburg, United States,
+1992.
+\bibitem{a18}
+Laume Deletschi, Istophe Verouan, Garc Chen, 
+Low-complexity Finite-Precision Decoders for object retrieval.
+in \emph{ IROS}.
+Sapporo, Japan,
+2013.
+\bibitem{a19}
+Muel Philippe, Tramond Abel, Arly Fijalkowicz, 
+Mining
+in \emph{ Computer Vision and Graphics}.
+Sapporo, Japan,
+2009.
+\bibitem{a20}
+Ohkita Iryna, R Histov, Dani F, 
+Un critère d'évaluation pour implantation de fréquences agile frequency offset from Mid- and vegetation by fuzzy K-means using Similarity Using a Good Low-Rate TLDPC Code
+in \emph{ European Microwave week}.
+Guangzhou, China,
+2002.
+\bibitem{a21}
+Truong Cong, Nicola Hister, Ia Ramedelaminiquet, 
+A generic scalable simulation of Locally Stationary Image Compression in an optical network on a multimodal wireless multi-tier networks by Imitation from Geo-referenced Images Analysis and Extra Linear Codes
+in \emph{ NEWCAS}.
+France,
+1998.
+
+\end{thebibliography}
+
+\end{document}

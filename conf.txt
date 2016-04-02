@@ -1,0 +1,1080 @@
+# Journal of Fourier Analysis and Applications
+# Journal of Integrative Neuroscience,
+# ICINCO 2009. 6th International Conference on Informatics in Control Automation and Robotics
+# ICINCO 2009. 6th International Conference on Informatics in Control Automation and Robotics.
+# International Conference on Image Processing
+# International Conference on Image Processing
+# International Journal of Computer Assisted Radiology and Surgery (supplement 1: Proceedings of the 23rd CARS Conference)
+# CARS 2010
+# International Journal of Computer Assisted Radiology and Surgery
+# RFIA: Reconnaissance des Formes et Intelligence Artificielle
+# RFIA: Reconnaissance des Formes et Intelligence Artificielle
+# Computer Vision and Image Understanding
+# Microwave Theory and Techniques, IEEE Transactions on
+# Fundamenta Informaticae
+# Eurasip Journal on Applied Signal Processing
+# Proceedings of EDBT 2008
+# EDBT
+# International Workshop on 3D Object Retrieval
+# International Workshop on 3D Object Retrieval
+# Proceedings of 2009 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2009 )
+# IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2009 )
+# proceeding of 11th International Conference on Simulation of Adaptive behavior, SAB 2010,
+# International Conference on Simulation of Adaptive behavior, SAB 2010,
+# International Journal of Neural Systems
+# Proceedings of 2009 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2009)
+# IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2009)
+# Proceedings of 2008 IEEE-RAS International Conference on Humanoid Robots, Humanoids 2008
+# IEEE-RAS International Conference on Humanoid Robots, Humanoids 2008
+# 6th International Symposium on Turbo-Codes & Iterative Information Processing
+# Information Theory and Applications Workshop (ITA)
+# Proceedings of MajecSTIC 2010
+# MajecSTIC 2010
+# Frontiers in Systems Neuroscience
+# Computational and Systems Neuroscience
+# From Animals to Animats 11
+# SAB
+# Neural Networks
+# ICANN
+# BMC Neuroscience
+# CNS
+# Nevada Chapter for Neuroscience
+# Proceedings of the 20th International Congress on Acoustics
+# The 20th International Congress on Acoustics
+# Conférence sur l'Apprentissage Automatique
+# Conférence sur l'Apprentissage Automatique
+# Extraction et Gestion des Connaissances
+# Extraction et Gestion des Connaissances
+# EURASIP Journal on Applied Signal Processing, Special issue on Advances in Intelligent Vision Systems: Methods and Applications
+# Pattern Recognition, Special issue on Similarity-Based Pattern Recognition.
+# Image and Vision Computing
+# Computer Vision and Image Understanding
+# IEEE Transactions on Image Processing
+# International Conference on Pattern Recognition
+# International Conference on Pattern Recognition
+# International Conference on Pattern Recognition
+# International Conference on Pattern Recognition
+# International Conference on Pattern Recognition
+# International Conference on Pattern Recognition
+# IEEE International Conference on Image Processing
+# IEEE International Conference on Image Processing
+# ACM International Conference on Image and Video Retrieval
+# ACM International Conference on Image and Video Retrieval
+# IEEE International Conference on Image Processing
+# IEEE International Conference on Image Processing
+# IEEE International Conference on Image Processing
+# IEEE International Conference on Image Processing
+# IEEE International Conference on Multimedia and Expo
+# IEEE International Conference on Multimedia and Expo
+# IEEE International Conference on Image Processing
+# IEEE International Conference on Image Processing
+# International Workshop on Machine Learning techniques for processing MultiMedia content
+# International Workshop on Machine Learning techniques for processing MultiMedia content
+# IEEE International Workshop on Multimedia Content-based Analysis and Retrieval
+# IEEE International Workshop on Multimedia Content-based Analysis and Retrieval
+# IEEE International Conference on Image Processing
+# IEEE International Conference on Image Processing,
+# IEEE International Conference on Advanced Concepts for Intelligent Vision Systems
+# IEEE International Conference on Advanced Concepts for Intelligent Vision Systems
+# International Workshop on Computer Vision meets Databases, ACM Sigmod
+# International Workshop on Computer Vision meets Databases, ACM Sigmod
+# Reconnaissance des Formes et Intelligence Artificielle
+# Reconnaissance des Formes et Intelligence Artificielle
+# Information Theory, IEEE Transactions on
+# European Workshop of Visual Information Processing
+# EURASIP Journal on Wireless Communications and Networking
+# IEEE Commun. Letters
+# EURASIP JWCN
+# IEEE Trans. Commun.
+# EURASIP JWCN
+# IEEE Transactions on Communications
+# EURASIP Advances in Multimedia
+# in the proceedings
+# 26th IEEE International Conference on Consumer Electronics (ICCE)
+# in the proceedings
+# IEEE Sarnoff symposium
+# Proceedings of IEEE Sarnoff Symposium 2008
+# IEEE Sarnoff Symposium
+# In the Proceedings
+# International Symposium on Information Theory
+# epirob
+# Emotional interactions as a way to structure learning
+# epirob
+# epirob
+# What should be taught first: the emotional expression or the face?
+# epirob
+# International conference on Kansei engineering and emotion researchKEER2010
+# Using emotional interactions for visual navigation task learning
+# International conference on Kansei engineering and emotion researchKEER2010
+# epirob
+# Towards a new social referencing paradigm
+# epirob
+# International Conference on Intelligent Robots and Systems (IROS), 2010
+# International Conference on Intelligent Robots and Systems (IROS), 2010
+# IROS
+# Proprioception and imitation: on the road to agent individuation
+# IROS
+# SAB
+# Autonomous Development Of Social Referencing Skills
+# SAB
+# IROS
+# About the constructivist role of auto-evaluation in interactive learnings and self-development
+# IROS
+# IROS
+# Imitation as a Communication Tool for Online Facial Expression Learning and Recognition
+# IROS
+# EUVIP
+# European Workshop of Visual Information Processing
+# EUVIP
+# Data Warehousing and Knowledge Discovery, 12th International Conference, DAWAK 2010, Bilbao, Spain, August/September 2010. Proceedings
+# Data Warehousing and Knowledge Discovery (DAWAK)
+# Journal of Technical Electrodynamics , Institut d'Électrodynamique de l'Académie Nationale des Sciences d'Ukraine.
+# International Database Engineering and Applications Symposium (IDEAS 2009)
+# International Database Engineering and Applications Symposium (IDEAS 2009)
+# Proceedings of the 2008 ACM Symposium on Applied Computing (SAC)
+# ACM Symposium on Applied Computing (SAC)
+# Proceedings of the VLDB Endowment
+# Very Large Data Bases (VLDB)
+# Wiley Encyclopedia of Computer Science and Engineering
+# IEEE Transactions on Information Theory
+# IEEE Proceedings ICPR
+# International Conference Pattern Recognition
+# International Journal of VLSI Design
+# Traitement du Signal
+# Proceedings of
+# IEEE International Workshop on Computer Architectures for Machine Perception (CAMP'93)
+# Proceedings of
+# IEEE International Workshop on Computer Architectures for Machine Perception (CAMP'97)
+# Proceedings of
+# IEEE International Workshop on Computer Architectures for Machine Perception (CAMP'2000)
+# Proceedings of
+# International Conference on Field-Programmable Logic and its Applications (FPL'04)
+# Proceedings of
+# 20th Conference on Design of Circuits and Integrated Systems (DCIS'05)
+# Proceeding of the ISIT'10
+# IEEE International Simposium on Information Theory (ISIT)
+# Proceedings of
+# IEEE International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS'06)
+# Proceedings of
+# International Conference on Design and Test in Europe (DATE'06)
+# Proceeding of the ISIT'09
+# IEEE International Symposium on Information Theory : ISIT 2009
+# Proceeding of the ISIT'09
+# IEEE International Simposium on Information Theory (ISIT)
+# Proceedings of
+# IEEE International Conference on Communications
+# Proceeding of the EW'10
+# European Wireless Conference (EW)
+# Proceedings of
+# 7th International Symposium on Communications and Information Technologies (ISCIT'07)
+# Proceedings of
+# 1st European Workshop on Design and Architectures for Signal and Image Processing (DASIP'07)
+# Proceedings of
+# Forum on Specification and Design Languages (FDL'08)
+# Proceedings of
+# International Conference on Design and Test in Europe (DATE'08)
+# Proceedings of
+# 19th IEEE/IFIP International Symposium on Rapid System Prototyping (RSP'08)
+# Proceedings of IEEE International Symposium on Information Theory ISIT2008
+# International Symposium on Information Theory (ISIT'08)
+# Proceedings of
+# Conference on Design and Architectures for Signal and Image Processing (DASIP)
+# Proceedings of
+# IEEE International Conference on ReConFigurable Computing and FPGAs (ReConFig'09)
+# Proceedings of
+# Conference on Design and Architectures for Signal and Image Processing (DASIP'09)
+# Proceedings of
+# IEEE International Symposium on Industrial Electronics (ISIE'10)
+# European Workshop on Reconfigurable Communication-centric SoC (ReCoSoC 2005)
+# XI International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT)
+# XI International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT)
+# 24èmes Journées Bases de Données Avancées (BDA 2008)
+# Journées Bases de Données Avancées (BDA)
+# Proceedings of the International Conference on Emergent Digital Eco Systems (MEDES 2009)
+# Conference on Emergent Digital Eco Systems (MEDES)
+# Proceedings of the International Conference on Sotft Computing and Pattern Recognition (SoCPaR 2009)
+# International Conference on Sotft Computing and Pattern Recognition (SoCPaR)
+# ACM SIGMOD Record
+# EUROSIM 2010 : FEDERATION OF EUROPEAN SIMULATION SOCIETIES
+# ICNAAM 2010 : International Conference of Numerical Analysis and Applied Mathematics
+# IEEE-EMBC 2010 : The 32nd annual international conference of the IEEE Engineering in Medicine and Biology Society
+# 7th European Simulation and Modeling (EUROSIM), 2010.
+# 8th International Conference of Numerical Analysis and Applied Mathematics (ICNAAM), 2010
+# IEEE Trans. on Communications
+# Computer Vision and Graphics
+# Computer Vision and Graphics
+# Proceedings of SOCPAR 2010
+# SOft Computing and PAttern Recognition
+# International Symposium on Information Theory
+# International Symposium on Information Theory
+# ISIT
+# ISIT
+# ISSSTA
+# IEEE ISTC
+# IEEE ISTC
+# IEEE ISTC
+# IEEE ISTC
+# 5th International Symposium on Turbo Codes and Related Topics
+# 5th International Symposium on Turbo Codes and Related Topics
+# IEEE ISTC
+# IEEE ISTC
+# IEEE ICCS
+# IEEE ICCS
+# ISITA
+# ISITA
+# VTC
+# VTC
+# ICT Mobile Summit
+# ICT Mobile Summit
+# ISIT
+# ISIT
+# ISIT
+# ISIT
+# ISWCS
+# ISWCS
+# APCC
+# APCC
+# ICUMT
+# ICUMT
+# ICFCC
+# ICFCC
+# ISIT
+# ISIT
+# ISIT
+# ISIT
+# ISITA
+# ISITA
+# Globecom
+# Globecom
+# ITA workshop
+# Paladyn. Journal of Behavioral Robotics
+# Proceedings of the 2010 International Conference on artificial intelligence ICAI 2010
+# International Conference on Artificial Intelligence (ICAI)
+# IEEE Transactions on Communications
+# EURASIP Journal on Wireless Communications and Networking
+# EURASIP Journal on Advances in Signal Processing
+# 16th Scandinavian Conference on Image Analysis
+# 16th Scandinavian Conference on Image Analysis
+# Technique et Science Informatiques (TSI)
+# Technique et Science Informatiques (TSI)
+# IEEE International Conference on Image Processing (ICIP 09)
+# IEEE International Conference on Image Processing (ICIP 09)
+# IEEE Transactions on Consumer Electronics
+# ACM International Conference on Image and Video Retrieval
+# ACM International Conference on Image and Video Retrieval (CIVR)
+# Inter Noise
+# Inter Noise
+# 22ème colloque GRETSI 2009
+# 22ème colloque GRETSI 2009
+# Frontiers in Neural Circuits
+# Proceedings of the International Conference on Kansei Engineering and Emotion Reasearch
+# International Conference on Kansei Engineering and Emotion Reasearch
+# Proceedings of Simulation of Adaptive Behavior'10
+# Simulation of Adaptive Behavior'10
+# Proceedings of ICANN 2010
+# International Conference on Artificial Neural Networks
+# Proceeding of IROS 2010
+# International Conference on Intelligent Robots and Sytems
+# Pattern Recognition
+# Control Engineering Practice
+# Proceedings of the International Conference on Ultra Modern Telecommunications & Workshops, 2009.
+# International Conference on Ultra Modern Telecommunications & Workshops, 2009.
+# Proceedings of EuMW 2003
+# European Microwave Week
+# Proceeding of International Conference on Communication 2004
+# International Conference on Communication
+# Proceeding of SPAWC 2009
+# SPAWC
+# THE 11TH IEEE INTERNATIONAL WORKSHOP ON SIGNAL PROCESSING ADVANCES IN WIRELESS COMMUNICATIONS
+# IEEE SPAWC 2010
+# EuMA International Journal of Microwave and Wireless Technologies
+# Forum on Specification & Design Languages
+# Forum on Specification & Design Languages
+# XCell
+# Proceeding of European Microwave Week 2009
+# European Microwave week
+# Proceeding of European Microwave Week 2010
+# European Microwave week
+# Actes de Journées Nationales des Microondes
+# Journées Nationales des Microondes
+# Semiconductor Conference (CAS), 2010 International
+# Semiconductor Conference (CAS), 2010 International
+# Romanian Journal of Information Science and Technology
+# Journées nationales de l'optique guidée
+# Journées nationales de l'optique guidée (JNOG)
+# Actes Advances in Electronics and Micro-electronics, 2008. ENICS '08. International Conference on
+# Advances in Electronics and Micro-electronics, 2008. ENICS '08. International Conference on
+# Actes Information and Communication Technologies: From Theory to Applications, 2008. ICTTA 2008. 3rd International Conference on
+# Information and Communication Technologies: From Theory to Applications, 2008. ICTTA 2008. 3rd International Conference on
+# Actes Actes : Information and Communication Technologies: From Theory to Applications, 2008. ICTTA 2008. 3rd International Conference on
+# Information and Communication Technologies: From Theory to Applications, 2008. ICTTA 2008. 3rd International Conference on
+# ICTTA 2008 actes
+# Information and Communication Technologies: From Theory to Applications, 2008. ICTTA 2008. 3rd International Conference on
+# Actes : Information and Communication Technologies: From Theory to Applications, 2008. ICTTA 2008. 3rd International Conference on
+# Information and Communication Technologies: From Theory to Applications, 2008. ICTTA 2008. 3rd International Conference on
+# Actes Signals, Circuits and Systems, 2009. ISSCS 2009. International Symposium on
+# Signals, Circuits and Systems, 2009. ISSCS 2009. International Symposium on
+# Actes Semiconductor Conference, 2008. CAS 2008. International
+# Semiconductor Conference, 2008. CAS 2008. International
+# Actes Semiconductor Conference, 2009. CAS 2009. International
+# Semiconductor Conference, 2009. CAS 2009. International
+# Microwave and Optical Technology Letters
+# Actes 6th Symposium on Communication Systems, Networks and Digital Signal Processing
+# 6th Symposium on Communication Systems, Networks and Digital Signal Processing
+# Actes ICECS 2010
+# 2010 IEEE International Conference on Electronics, Circuits, and Systems
+# Actes 7th Communications International Conference
+# 2008 7th International Conference - COMMUNICATIONS
+# Actes DCIS'08
+# 23rd Conference on Design of Circuits and Integrated Systems (DCIS'08)
+# proceedings of Microwave Integrated Circuits European (EuMIC)
+# 5th European Conference on Microwave Integrated Circuits (EuMIC)
+# IEEE Trans. on Communications
+# Proc. European Signal Processing Conference
+# European Signal Processing Conference
+# Proc. International Workshop on Multimedia Signal Processing
+# International Workshop on Multimedia Signal Processing
+# IEEE Trans. on Communications
+# Proceedings of the 2010 International Conference of Soft Computing and Pattern Recognition
+# Proceedings of the 2010 International Conference of Soft Computing and Pattern Recognition
+# Proceedings of the 6th VISAPP conference
+# International Conference on Computer Vision Theory and Applications
+# .
+# SPAWC : 11th IEEE International Workshop on Signal Processing Advances in Wireless Communications
+# .
+# IEEE GLOBECOM 2010
+# International Journal of Computer Assisted Radiology and Surgery
+# CARS'11
+# DASIP 2008
+# Conference on Design & Architectures for Signal and Image Processing
+# TREC online proceedings
+# TREC Video Retrieval Evaluation Online Proceedings (TRECVID)
+# IEEE Transactions on Information Theory
+# 48th Annual Allerton Conference on Communication, Control, and Computing
+# Information Theory Workshop, 2009. ITW 2009. IEEE
+# Information Theory Workshop, 2009. ITW 2009. IEEE
+# 2011 IEEE International Conference on Image Processing (IEEE ICIP2011)
+# 2011 IEEE International Conference on Image Processing (IEEE ICIP2011)
+# Proceedings of International Conference on Image Processing
+# IEEE ICIP 2011
+# Proceedings of International Conference on Image Processing
+# IEEE ICIP 2011
+# Actes du GRETSI'11
+# GRETSI'11
+# Nouvelles Perspectives en Sciences Sociales
+# Int. Conference on Database and Expert Systems Applications (DEXA'2010)
+# Conference on Database and Expert Systems Applications (DEXA'2010)
+# Extraction et gestion des connaissances (EGC'2011)
+# EGC
+# Int. Conference on Soft Computing and Pattern Recognition (SoCPaR'2010)
+# Int. Conference on Soft Computing and Pattern Recognition (SoCPaR'2010)
+# Pattern Recognition
+# Proceedings of the 14th CAIP Conference
+# Computer Analysis of Images and Patterns
+# DEXA
+# DEXA - Database and Expert Systems Applications
+# DEXA (2)
+# DEXA - Database and Expert Systems Applications
+# International Conference on Communications (ICC 2011)
+# IEEE International Conference on Communications 2011 (ICC 2011)
+# International Workshop on bio-inspired robots
+# International Workshop on bio-inspired robots
+# Proceedings of the IEEE International Conference on Development and Learning (ICDL) and Epigenetic Robotics (Epirob)
+# IEEE International Conference on Development and Learning (ICDL) and Epigenetic Robotics (Epirob)
+# Actes
+# Reconfigurable Communication-centric Systems-on-Chip (ReCoSoC), 2011 6th International Workshop on
+# Proceedings of IEEE International Symposium on Information Theory (ISIT 2011)
+# IEEE International Symposium on Information Theory (ISIT 2011)
+# Proceedings of the 20th ACM international conference on Information and knowledge management
+# CIKM '11 20th ACM international conference on Information and knowledge management
+# International journal of microwave and wireless technologies
+# Proceedings of the 6th International ReCoSoC Workshop
+# 6th International Workshop on Reconfigurable Communication-centric Systems-on-Chip, ReCoSoC 2011
+# IEEE Proceedings of Asilomar Conference on Signals, Systems, and Computers 2011
+# IEEE Asilomar Conference on Signals, Systems, and Computers 2011
+# PIMRC 2010
+# IEEE 21st International Symposium on Personal Indoor and Mobile Radio Communications (PIMRC), 2010
+# IEEE Journal on Selected Areas in Communications
+# Game Theory and Learning for Wireless Networks : Fundamentals and Applications
+# Green Communications: Theoretical Fundamentals, Algorithms, and Applications
+# ICASSP 2011
+# IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2011
+# Actes de ICM 2011
+# ICM 2011 : The 23rd International Conference on Microelectronics
+# Proceedings of the 9th ACM symposium on Document engineering
+# 9th ACM symposium on Document engineering (DocEng '09)
+# BIO Web of Conferences
+# Proceedings of VISAPP'12
+# International Conference on Computer Vision Theory and Applications
+# The Newcom++ Vision Book: Perspectives of Research on Wireless Communications in Europe
+# Proceedings of the International Conference on Field Programmable Technology (FPT'11)
+# FPT'11
+# Image and Vision Computing
+# Euro-Noise
+# Euro-Noise
+# Introduction to modern robotics II
+# Proceedings of IEEE NEWCAS
+# New Circuits and Systems Conference (NEWCAS), 2011 IEEE 9th International
+# Proceedings of Gretsi
+# Gretsi
+# Industrial Conference on Data Mining (MLDM'2011)
+# Industrial Conference on Data Mining (MLDM'2011)
+# Conference on Database and Expert Systems Applications (DEXA'2011)
+# Conference on Database and Expert Systems Applications (DEXA'2011)
+# Conference on Emergent Digital Eco Systems (MEDES 2011)
+# Conference on Emergent Digital Eco Systems (MEDES 2011)
+# 26èmes Journées Bases de Données Avancées (BDA 2010)
+# 26èmes Journées Bases de Données Avancées (BDA 2010)
+# Colloque Africain sur la Recherche en Informatique (CARI)
+# Colloque Africain sur la Recherche en Informatique (CARI)
+# European Conference on Data Mining
+# Colloque National sur la Recherche en Informatique et ses Applications (CNRIA)
+# Journal of Information and Data Management
+# Journal of Multimedia Processing and Technologies
+# Telecommunications, 2009. ICT '09. International Conference on
+# Telecommunications, 2009. ICT '09. International Conference on
+# Advances in Monolithic Microwave Integrated Circuits for Wireless Systems: Modeling and Design Technologies
+# Microwaves, Radar and Remote Sensing Symposium (MRRS)
+# Microwaves, Radar and Remote Sensing Symposium (MRRS)
+# Signal Propagation on Interconnects, 2008. SPI 2008. 12th IEEE Workshop on
+# Signal Propagation on Interconnects, 2008. SPI 2008. 12th IEEE Workshop on
+# Design and Technology of Integrated Systems in Nanoscale Era, 2008. DTIS 2008. 3rd International Conference on
+# Design and Technology of Integrated Systems in Nanoscale Era, 2008. DTIS 2008. 3rd International Conference on
+# International Journal of Computer Information Systems and Industrial Management
+# IEEE Transactions on Signal Processing
+# IEEE Transactions on Biomedical Circuits and Systems
+# DASIP'07
+# Workshop on Design and Architectures for Signal and Image Processing
+# DASIP
+# Workshop on Design and Architectures for Signal end Image Processing
+# DCIS
+# Conferance on Design of Circuits and Integrated Systems
+# IDT
+# International Design and Test Workshop
+# DASIP
+# Workshop on Design and Architectures for Signal end Image Processing
+# 1st International ICST workshop on New Computational Methods for Inverse Problems (NCMIP)
+# 1st International ICST workshop on New Computational Methods for Inverse Problems (NCMIP)
+# GRETSI
+# GRETSI
+# COFREND
+# COFREND
+# International Journal of Reconfigurable Computing
+# Calculateurs Paralleles
+# Proceedings of IEEE International Conference SENSORS 2011
+# IEEE International Conference SENSORS 2011
+# Front. Comput. Neurosci. Computational Neuroscience & Neurotechnology Bernstein Conference & Neurex Annual Meeting 2011
+# Computational Neuroscience & Neurotechnology Bernstein Conference & Neurex Annual Meeting 2011
+# proceedings of 2011 IEEE/ASME International Conference on Advanced Intelligent Mechatronics AIM 2011
+# IEEE/ASME International Conference on Advanced Intelligent Mechatronics AIM 2011
+# Proceedings of International Workshop on Bio-Inspired Robots
+# International Workshop on Bio-Inspired Robots
+# IEEE Transactions on Autonomous Mental Developpement, IEEE TAMD
+# IEICE Trans. on Fundamentals
+# Journal of Physics A: Mathematical and Theoretical
+# JNM 2011
+# 17èmes Journées Nationales Microondes - BREST 2011
+# in the proc. of ITC'10
+# ITC'10
+# in the proc. of ISIT'11
+# ISIT'11
+# in the proc. of ISWCS'11
+# ISWCS
+# in the proc. of ISWCS'11
+# ISWC'11
+# in the proc. of MajecSTIC 2010
+# MajecSTIC 2010
+# Error Control Coding for B3G/4G Wireless Systems
+# A NEW TRELLIS REPRESENTATION FOR SOURCE-CHANNEL RATE ALLOCATION
+# ICASSP
+# Coexistence de Protocoles a Retransmissions Incrémentales pour un Canal Cognitif
+# GRETSI
+# IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2012
+# IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2012
+# Actes de la conférence
+# 17èmes Journées Nationales Microondes
+# Inverse Problems
+# Journal of Physics A: Mathematical and Theoretical
+# Proceedings of Global Telecommunications Conference (GLOBECOM 2011), 2011 IEEE
+# Global Telecommunications Conference (GLOBECOM 2011), 2011 IEEE
+# Network Coding (NetCod), 2011 International Symposium on
+# Network Coding (NetCod), 2011 International Symposium on
+# International Zurich Seminar on Communications (IZS) 2010
+# International Zurich Seminar on Communications (IZS) 2010
+# Information Theory, 2009. ISIT 2009. IEEE International Symposium on
+# Information Theory, 2009. ISIT 2009. IEEE International Symposium on
+# International Journal of Biomedical Imaging
+# Inverse Problems
+# Journal of the European Optical Society -Rapid Publications
+# Proceedings of 37th IEEE ICASSP Conference
+# International Conference on Acoustic Speech and Signal Processing
+# Proceeding of NEWCAS2011
+# NEWCAS2011
+# Proceeding of EuMC - 2011
+# European Microwave Conference - 2011
+# Proceeding of Globecom 2011
+# Global Communications Conference - 2011
+# Proceeding de JNM2011
+# Journées Nationales Microondes
+# Proceeding de GRETSI-2011
+# GRETSI-2011
+# IEEE Transactions on Signal Processing
+# Notebook Papers of the TREC Video Retrieval Evaluation workshop (TRECVID)
+# TRECVID 2011 - TREC Video Retrieval Evaluation Online
+# 2011 IEEE International Symposium on Information Theory Proceedings (ISIT)
+# IEEE International Symposium on Information Theory (ISIT 2011)
+# Robotics and Biomimetics (ROBIO), 2011 IEEE International Conference on
+# Robotics and Biomimetics (ROBIO), 2011 IEEE International Conference on
+# International Journal of Computer Assisted Radiology and Surgery
+# Proceedings of the 26th CARS Conference
+# Computer Assisted Radiology and Surgery (CARS)
+# EURASIP Journal on Wireless Communications and Networking
+# Conference on Medical Image Understanding and Analysis
+# ESANN 2012
+# 20th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning
+# Computer Vision and Image Understanding
+# VLDB Journal
+# Knowledge and Information Systems
+# Extraction et Gestion des Connaissances (EGC 2012)
+# Extraction et Gestion des Connaissances (EGC 2012)
+# Extraction et gestion des connaissances (EGC 2012)
+# Extraction et gestion des connaissances (EGC 2012)
+# Extraction et gestion des connaissances (EGC 2012)
+# Extraction et gestion des connaissances (EGC 2012)
+# GRETSI '11 : XXIIIe Colloque
+# GRETSI '11 : XXIIIe Colloque
+# GRETSI '11 : XXIIIe Colloque
+# J Physiol Paris
+# Proceedings of the Data Compression Conference
+# DCC 2012
+# IEEE Transactions on Communications
+# Humanoid Robots (Humanoids), 2011 11th IEEE-RAS International Conference on
+# Humanoid Robots (Humanoids), 2011 11th IEEE-RAS International Conference on
+# Humanoid Robots (Humanoids), 2011 11th IEEE-RAS International Conference
+# Parallel and Distributed Processing Symposium Workshops & PhD Forum (IPDPSW), 2012 IEEE 26th International proceedings
+# Parallel and Distributed Processing Symposium Workshops & PhD Forum (IPDPSW), 2012 IEEE 26th International
+# Ibis
+# Revue des Nouvelles Technologies et de l'Information (RNTI)
+# International workshop Database Management and Application over Networks - DBMAN (APWeb/WAIM Workshop)
+# International workshop Database Management and Application over Networks - DBMAN (APWeb/WAIM Workshop)
+# International workshop on Emerging Trends of Web Technologies and Applications -WebETrends (APWeb/WAIM Workshop)
+# International workshop on Emerging Trends of Web Technologies and Applications -WebETrends (APWeb/WAIM Workshop)
+# proceedings of the 1st International Conference on Network-Based Information Systems (NBIS)
+# 1st International Conference on Network-Based Information Systems (NBIS)
+# proceedings of the 9th International Conference on Enterprise Information Systems (ICEIS)
+# 9th International Conference on Enterprise Information Systems (ICEIS)
+# proceedings of the 1st International Conference on Network-Based Information Systems (NBIS)
+# 1st International Conference on Network-Based Information Systems (NBIS)
+# proceedings of the 12th International Conference on Database Systems for Advanced Applications(DASFAA)
+# 12th International Conference on Database Systems for Advanced Applications(DASFAA)
+# proceedings of the 3rd International Conference of WEB Information Systems and Technologies (Web-IST)
+# 3rd International Conference of WEB Information Systems and Technologies (Web-IST)
+# 2ème Franco-Japanese Workshop on Information Search Integration and Personnalizzation (ISIP)
+# 2ème Franco-Japanese Workshop on Information Search Integration and Personnalizzation (ISIP)
+# International Conference on Swarm Intelligence
+# International Conference on Swarm Intelligence
+# Proceedings, 5th Chaotic Modeling and Simulation International Conference, 12 - 15 June 2012, Athens Greece
+# 5th Chaotic Modeling and Simulation International Conference, 12 - 15 June 2012, Athens Greece
+# ECCS'12 European Conference on Complex Systems
+# Proceedings of the 13th International conference on communication systems IEEE ICCS 2012
+# IEEE ICCS 2012
+# Colloque GDR SocSip 2012
+# IEEE ROMAN Workshop on Developmental and bio-inspired approaches for social cognitive robotics
+# From Animals to Animats 12
+# 12th International Conference on Simulation of Adaptive Behavior, SAB 2012
+# Proceedings of IEEE International Conference on Electronics, Circuits, and Systems
+# IEEE International Conference on Electronics, Circuits, and Systems
+# Proceedings of the 2012 IEEE Information Theory Workshop (ITW)
+# 2012 IEEE Information Theory Workshop (ITW)
+# International Symposium on Communications, Control and Signal Processing (ISCCSP)
+# International Symposium on Communications, Control and Signal Processing (ISCCSP)
+# Proceedings of IEEE International Symposium on Information Theory (ISIT)
+# IEEE International Symposium on Information Theory (ISIT)
+# IEEE International Symposium on Wireless Communication Systems (ISWCS)
+# IEEE International Symposium on Wireless Communication Systems (ISWCS)
+# Dynamic Games and Applications
+# Acoustics 2012 Nantes
+# Acoustics 2012
+# IEEE Conference on Development and Learning and Epigenetic Robotics
+# ICDL Epirob IEEE Conference on Development and Learning and Epigenetic Robotics
+# 2012 IEEE International Conference on Industrial Technology (ICIT 2012)
+# 2012 IEEE International Conference on Industrial Technology (ICIT 2012)
+# 2012 IEEE International Symposium on Industrial Electronics (ISIE 2012)
+# 2012 IEEE International Symposium on Industrial Electronics (ISIE 2012)
+# Acoustique et Techniques : trimestriel d'information des professionnels de l'acoustique
+# Bulletin de l'AFIA
+# Pattern Recognition
+# Conference
+# IEEE/RSJ International Conference on Intelligent Robots and Systems
+# IEEE Conference on Development and Learning and Epigenetic Robotics
+# The International Workshop on Bio-Inspired Robots.
+# Second Symposium on Biology of Decision Making
+# Proceedings of 2012 IEEE International Symposium on Information Theory
+# ISIT 2012
+# IEEE Transactions on Information Theory
+# Proceedings
+# IEEE Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob 2012)
+# Proceedings
+# IEEE International Conference on Robotics and Biomimetics (ROBIO 2012)
+# ACM International Conference on Image and Video Retrieval
+# ACM International Conference on Image and Video Retrieval
+# European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning
+# European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning
+# International Conference on Pattern Recognition
+# International Conference on Pattern Recognition
+# IEEE Transactions on Wireless Communications
+# 2012 12th IEEE-RAS International Conference on Humanoid Robots Nov.29-Dec.1, 2012. Business Innovation Center Osaka, Japan
+# 2012 12th IEEE-RAS International Conference on Humanoid Robots Nov.29-Dec.1, 2012. Business Innovation Center Osaka, Japan
+# ITA workshop
+# in the proc. of ICN
+# ICN'12
+# in the proc. of WCNC'12
+# WCNC'12
+# in the proc. of ICCP'12
+# ICCP'12
+# in the proc. of ISIT
+# ISIT'12
+# in thr proc. of ISIT
+# ISIT'12
+# in the proc. of ISWCS'12
+# ISWCS'12
+# in the proc. of EUSIPCO'12
+# EUSIPCO'12
+# Proc. of ISTC'12
+# ISTC'12
+# in the proc. of ITW'12
+# ITW'12
+# in the proc. of ICCS'12
+# ICCS'12
+# IEEE Transactions on Information Theory
+# IEEE Transactions on Communications
+# Ingénierie des Systèmes d'Information
+# Breadth-first strategies for top-k algorithms over web data sources
+# 27èmes journées Bases de Données Avancées (BDA 2011)
+# Optimizing large collections of continuous content-based RSS aggregation queries
+# 27èmes journées Bases de Données Avancées (BDA 2011)
+# Proceeding IEEE PIMRC
+# IEEE PIMRC
+# Proceedings of MobiHealth 2012, ISBN 978-3-642-37892-8
+# 3rd International Conference on Wireless Mobile Communication and Healthcare
+# Proceedings of 27th DCIS Conference
+# 27th Conference on Design of Circuits and Integrated Systems (DCIS), Special Session on Biomedical Systems
+# proceedings of smart cameras for robotic applications
+# Smart cameras for robotic applications
+# ACM transactions on Reconfigurable Technology and Systems (TRETS)
+# Proceedings of ICCAIS 2012
+# International Conference on Control, Automation and Information Sciences.
+# Wireless Mobile Communication and Healthcare
+# Mobihealth 2012
+# IEEE International Symposium on Information Theory - ISIT 2012
+# Information Theory Proceedings (ISIT), 2012 IEEE International Symposium on
+# Information Theory Proceedings (ISIT), 2012 IEEE International Symposium on
+# IEEE Transactions on Communications
+# IEEE Workshop on Information Theory Proceedings - ITW 2012
+# Proceedings of the workshop on TREC Video Retrieval Evaluation (TRECVID)
+# TRECVID - TREC Video Retrieval Evaluation workshop
+# Journées nationales robotique humanoïde
+# Proceedings of VTC2013-Spring
+# VTC2013-Spring
+# ACM International Conference on Multimedia
+# ACM International Conference on Multimedia
+# 19th ICPR International Conference on Pattern Recognition
+# 19th ICPR International Conference on Pattern Recognition
+# IEEE International Conference on Image Processing
+# IEEE International Conference on Image Processing
+# IEEE International Conference on Image Processing (ICIP '10)
+# IEEE International Conference on Image Processing (ICIP '10)
+# IAPR Conference on Machine Vision Applications (MVA)
+# IAPR Conference on Machine Vision Applications (MVA)
+# International Symposium on 3D Data Processing Visualization and Transmission (3DPVT '10)
+# International Symposium on 3D Data Processing Visualization and Transmission (3DPVT '10)
+# Journal of Behavioral Robotics
+# Transactions on Wireless Communications
+# EURASIP Journal on Wireless Comm. and Netw
+# URASIP Journal on Wireless Comm. and Netw., Special Issue on ''Advances in Error Control Coding Techniques"
+# IEEE Trans. on Communications
+# Error Control Coding for B3G/4G Wireless Systems
+# IEEE
+# IEEE ASILOMAR Conf
+# Proc.
+# IEEE PIMRC,
+# Proc.
+# IEEE GLOBECOM
+# Proc.
+# IEEE SPAWC
+# Proc
+# IEEE SPAWC
+# IEEE Proceedings of Conference on Design and Architectures for Signal and Image Processing
+# DASIP
+# Neural Networks
+# Reconfig 2011
+# International Conference on Reconfigurable Computing and FGAs, ReConFig11
+# IEEE ICASSP
+# IEEE ICASSP
+# EUSIPCO
+# EUSIPCO
+# IEEE PIMRC
+# IEEE PIMRC
+# Turbo-Codes Symposium
+# ISTC
+# IEEE ISIT
+# IEEE ISIT
+# IEEE SPAWC
+# IEEE SPAWC
+# EUSIPCO
+# EUSIPCO
+# IEEE ICC
+# IEEE ICC
+# Proc European Wireless Conf.
+# European Wireless Conf.
+# IEEE ICIP
+# IEEE ICIP
+# Porc. GRETSI
+# GRETSI
+# Proceedings of the 5th IEEE International Design and Testing Workshop 2010
+# 5th IEEE International Design and Testing Workshop
+# Proceedings of the 5th International Workshop on Reconfigurable Communication-centric Systems on Chip 2010
+# 5th International Workshop on Reconfigurable Communication-centric Systems on Chip
+# Image and Vision Computing
+# Journal of Real-Time Image Processing
+# The Fifth International Conference on Advances in Circuits, Electronics and Micro-electronics, IARA, 2012
+# CENICS 2012
+# ESANN 2008 proceedings, Advances in Computational Intelligence and Learning
+# 16th European Symposium on Artificial Neural Networks
+# Proceedings of the 50th Allerton Conference on Communication, Control, and Computing
+# 50th Allerton Conference on Communication, Control, and Computing
+# IEEE Transactions on Information Theory
+# Journal of Mathematical Imaging and Vision
+# Proceedings of First Workshop GEODIFF
+# VISIGRAPP (Workshop GEODIFF)
+# IEEE XXXIII International Scientific Conference Electronics and Nanotechnology
+# Adaptive Behavior
+# Workshop on Information Search, Integration and Personalization (ISIP)
+# Workshop on Information Search, Integration and Personalization (ISIP)
+# Workshop on Information Search, Integration and Personalization (ISIP)
+# Workshop on Information Search, Integration and Personalization (ISIP)
+# Workshop on Information Search, Integration and Personalization (ISIP)
+# Workshop on Information Search, Integration and Personalization (ISIP)
+# IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining
+# IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining
+# International Conference on Enterprise Information Systems (ICEIS)
+# International Conference on Enterprise Information Systems (ICEIS)
+# Extraction et gestion des connaissances (EGC 2013)
+# Extraction et gestion des connaissances (EGC 2013)
+# CETSIS
+# Enseignement des technologies et des Sciences de l'Information et des Systemes
+# Proceedings de JNM2013
+# Journée Nationale des Microondes (JNM) 2013
+# Proceedings des JNM2013
+# Journée Nationale des Microondes(JNM) 2013
+# International Journal of Computer Assisted Radiology and Surgery
+# Proceedings of 27th CARS Conference
+# Computer Assisted Radiology and Surgery
+# International Journal of Production Research
+# Reconfigurable Computing and FPGAs (ReConFig), 2012
+# International conference on ReConFigurable Computing and FPGAs (ReConFig),
+# International Journal of Computer Integrated Manufacturing
+# Machine Learning and Applications (ICMLA), 2012 11th International Conference on
+# Machine Learning and Applications (ICMLA), 2012 11th International Conference on
+# Entrepôts de données et analyse en ligne (EDA)
+# Entrepôts de données et analyse en ligne (EDA)
+# Extraction et gestion des connaissances (EGC)
+# Extraction et gestion des connaissances (EGC)
+# Extraction et gestion des connaissances (EGC)
+# Extraction et gestion des connaissances (EGC)
+# Conférence sur les modèles et l'analyse des réseaux : approches mathématiques et informatiques (MARAMI)
+# 2011 18th IEEE International Conference on Image Processing
+# IEEE Transactions on Nuclear Science
+# ICASSP 2013
+# International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+# Multimedia Tools and Applications
+# Selected Topics in Applied Earth Observations and Remote Sensing, IEEE Journal of
+# Computer Vision and Image Understanding
+# Poceedings of 2013 IFAC Conference on Manufacturing Modelling, Management, and Control,
+# 2013 IFAC Conference on Manufacturing Modelling, Management, and Control, IFAC MIM '2013
+# From Motor Learning to Interaction Learning in Robots
+# DASIP '12 : Conference on Design & Architectures for Signal & Image Processing
+# DASIP '12 : Conference on Design & Architectures for Signal & Image Processing
+# DASIP '12 : Conference on Design & Architectures for Signal & Image Processing
+# IEEE Transactions on Consumer Electronics
+# IEEE International Conference on Acoustics, Speech, and Signal Processing
+# IEEE International Conference on Acoustics, Speech, and Signal Processing
+# ORASIS
+# ORASIS : Orasis, Congrès des jeunes chercheurs en vision par ordinateur
+# International Conference on Machine Vision Applications
+# International Conference on Machine Vision Applications
+# Eurographics Workshop on 3D Object Retrieval
+# Eurographics Workshop on 3D Object Retrieval
+# Journal of the Acoustical Society of America
+# International Journal of Advanced Com puter Science and Applications,
+# Annals of British Machine Vision Association
+# IEEE J. Emerging and Sel. Topics in Circuits and Syst.
+# IEEE Transactions on Information Theory
+# Proceedings of the 35th IEEE EMBC Conference
+# International conference of the IEEE Engineering in Medecine and Biology Society
+# Interdisciplinary Symposium on Signals and Systems for Medical Applications (ISSSMA)
+# Chaotic Modeling and Simulation Journal
+# Lecture Notes in Computer SCience
+# SAB
+# From Animals to Animats 10
+# 10 th Simulation of Adaptive Behavior
+# to appear
+# International Joint Conference on Neural Networks 2013
+# third symposium on biology of decision making
+# Journées Nationales Microondes (JNM)
+# 18èmes Journées Nationales Microondes
+# Heritage, Cities & Sustainable Development, Int. Interdisciplinary Conference
+# Journal of Machine Learning Research
+# IEEE International Conference on Image Processing
+# IEEE International Conference on Image Processing
+# Proceedings of 11th IEEE International NEWCAS Conference
+# 11th IEEE International NEWCAS Conference
+# Proceedings of ARFTG_Spring, Microwave Measurement Conference
+# ARFTG_Spring, Microwave Measurement Conference
+# JNM2013
+# 18e Journées Nationales Micro-ondes
+# IEEE MultiMedia
+# PLoS ONE
+# proceedings of IEEE International Conference ICDL-EpiRob
+# IEEE International Conference ICDL-EpiRob
+# Advances in Cognitive Neurodynamics (III)
+# to appear
+# the Third Joint IEEE International Conference on Development and Learning and on Epigenetic Robotics
+# Vidéo 3D - capture, traitement et diffusion
+# DEXA
+# 24th International Conference on Database and Expert Systems Applications (DEXA 2013)
+# IEEE International Conference on Field Programmable Logic and Applications (FPL)
+# IEEE International Conference on Field Programmable Logic and Applications (FPL)
+# IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC)
+# IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC)
+# DEXA
+# 24th International Conference on Database and Expert Systems Applications (DEXA 2013)
+# Symposium on Signal and Image Processing (GRETSI)
+# Symposium on Signal and Image Processing (GRETSI)
+# IEEE Joint conference on Development and learning and on Epigenetic Robotics
+# IEEE Joint conference on Development and learning and on Epigenetic Robotics
+# Int. Conference on Enterprise Information Systems (ICEIS)
+# Int. Conference on Enterprise Information Systems (ICEIS)
+# Actes du 24e Colloque "GRETSI"
+# GRETSI 2013
+# Springer
+# ICCN
+# Dynamic Brain Forum
+# Proceedings of ICNDT 2013
+# The 12th International Conference for Non-Destructive Testing : "Application of Contemporary Non-Destructive Testing in Engineering"
+# International Journal of Computer Assisted Radiology and Surgery
+# Actes des Journées Francophones d'Hépato-Gastroentérologie et d'Oncologie Digestives (JFHOD)
+# JFHOD'13
+# IEEE International Conference on Design and Architectures for Signal and Image Processing (DASIP)
+# IEEE International Conference on Design and Architectures for Signal and Image Processing (DASIP)
+# Actes de RFIA'2002, Reconnaissance des Formes et Intelligence Artificielle
+# RFIA'2002, Reconnaissance des Formes et Intelligence Artificielle
+# Proceedings of BS 2002 (Bio Signal 2002)
+# BS 2002 (Bio Signal 2002)
+# Proceedings of BS 2002 (Bio Signal 2002)
+# BS 2002 (Bio Signal 2002)
+# J3EA
+# Bio Medical Central
+# BMC Neuroscience 2013
+# CNS 2013
+# New Developments in Robotics, Automation and Control Book
+# Simulation Modelling Practice and Theory
+# Simulation Modelling Practice and Theory
+# Physics in Medicine and Biology
+# Astronomy and Astrophysics
+# J. Phys. A: Math. Gen
+# J. Phys. A: Math. Gen.
+# International Journal of Signal Processing
+# C.R. Acad. Sci. Paris
+# Inverse Problems
+# C.R. Acad. Sci. Paris
+# IEEE Signal Processing Letters
+# IEEE Trans. Medical Imaging
+# Interdisciplinary symposium on signal and systems for medical applications
+# Interdisciplinary symposium on signal and systems for medical applications, ISSSMA
+# Interdisciplinary symposium on signal and systems for medical applications, ISSSMA
+# Fifth International Conference of Applied Mathematics and Computing
+# Research, Innovation and Vision for Future
+# 4th Int. Conf. Photonics and Imaging in Biology and Medicine (PIBM)
+# Proc. IEEE Int. Conf. Image Processing (ICIP), Genova, Italy, September 2005
+# Proc. 7th Int. Conf. Quality Control by Artificial Vision (QCAV), Nagoya, Japan, May 2005
+# Proc. Int. Conf. Physics in Signal and Image Processing, Toulousse, France, January 2005
+# Proc. 5h EUROSIM Congress on Modelling and Simulation, Marne la Vallée, France, September 2004
+# Proc. Int. Conf. in Engineering Mechanics Today, Ho Chi Minh City, Vietnam, August 2004
+# ECCV/CVAMIA Workshop on Computer Vision Approaches to Medical Image Analysis, Prag, Czech Republic, May 2004
+# IEEE- Int. Conf. Image Processing, Barcelone, Spain, September, 2003
+# Proc. Int. Conf. Physics in Signal and Image Processing, Grenoble, France, January 2003
+# Proc. Int. Conf. Physics in Signal and Image Processing, January 2001
+# Proc. IEEE Int. Conf. Image Processing, Kobe, Japan, October 1999
+# Proc. IEEE Int. Conf. Acoustics, Speech and Signal Processing, Phoenix, USA, March 1999
+# Proc. SPIE Int. Conf. Medical Imaging, San Diego, USA, February 1999
+# Proc. Int. Conf. Physical in Signal and Image Processing, France, January 1999
+# Proc. of 18th European Microwave Conference, Stockholm, October 1988
+# GRETSI, Bordeaux, septembre 2011
+# COFREND, Dunkerque, mai 2011
+# COFREND, Dunkerque, mai 2011
+# COFREND
+# Proc. GRETSU sur le Traitement du signal et des Images, France, September 1999
+# Proc. GRETSI sur le Traitement du signal et des Images, France, Septembre 1999
+# Proc. GRETSI sur le Traitement du signal et des Images, France, Septembre 1999
+# Proc. GRETSI sur le Traitement du signal et des Images, France, Septembre 1993
+# Bayesian Inference and Maximum Entropy Methods in Science and Engineering
+# Bayesian Inference and Maximum Entropy Methods in Science and Engineering, A.M. Djfari Ed., American Institute of Physics, 2001
+# "Horizons in Neuroscience Research. Volume 6", Nova Science Publishers
+# Neural Models For Social Development In Shared Parieto-Motor Circuits
+# Connectionist Models of Behaviour and Cognition II
+# British Machine Vision Conference
+# British Machine Vision Conference
+# IEEE International Geoscience and Remote Sensing Symposium
+# IEEE International Geoscience and Remote Sensing Symposium
+# Pattern Recognition Letters
+# Proceedings of the 13th IEEE International Conference on BioInformatics and BioEngineering
+# BIBE'13
+# Information Theory Proceedings (ISIT) 2013
+# IEEE International Symposium on Information Theory (ISIT)
+# Security Technologies for an Ambient Lifestyle
+# Proceedings of IEEE-ICDL
+# IEEE-ICDL Epirob
+# Information Theory Proceedings (ISIT), 2013 IEEE International Symposium on
+# Information Theory Proceedings (ISIT), 2013 IEEE International Symposium on
+# IEEE International Symposium on Information Theory - ISIT 2013
+# IEEE Information Theory Workshop
+# IEEE Information Theory Workshop
+# Inverse Problems
+# Proceedings of IEEE 24th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC)
+# IEEE 24th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC)
+# Frontiers in Neurorobotics
+# Design, Automation & Test in Europe (DATE 2013) - International Workshop on Neuromorphic and Brain-Based Computing Systems (NeuComp 2013)
+# Actes du GRETSI
+# GRETSI 2013
+# Proceedings of the 2013 IEEE Information Theory Workshop (ITW)
+# 2013 IEEE Information Theory Workshop (ITW)
+# European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning
+# The Scientific World Journal
+# IEEE Signal Processing Letters
+# IEEE Transactions on Information Theory
+# IEEE Transactions on Information Theory
+# IEEE Transactions on Communications
+# IEEE Transactions on Information Theory
+# IEEE Journal on Selected Areas in Communications
+# IEEE Transactions on Communications
+# XXIVème Colloque Gretsi
+# XXIVème Colloque Gretsi
+# XXIVème Colloque Gretsi
+# GRETSI 2013
+# GRETSI 2013
+# Frontiers in Psychology
+# Adaptive Behavior
+# International Journal of Metaheuristics
+# IEEE Transactions on Autonomous Mental Development
+# IEEE Transactions on Man, Systems and Cybernetics, Part A: Systems and humans
+# Proceedings of IEEE/RSJ
+# IROS
+# Actes Conférence du Columa
+# 22ème Conférence du Columa, Journées internationales sur la lutte contre les mauvaises herbes
+# Pattern Recognition and image Analysis
+# proceedings
+# 11th International Conference Pattern Recognition and Image Analysis
+# ValueTools '13: Proceedings of the 7th International Conference on Performance Evaluation Methodologies and Tools
+# International Workshop on Knowledge Discovery Using Cloud and Distributed Computing Platforms
+# International Workshop on Knowledge Discovery Using Cloud and Distributed Computing Platforms
+# ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA2014)
+# ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA2014)
+# International Symposium on Applied Reconfigurable Computing (ARC2014)
+# International Symposium on Applied Reconfigurable Computing (ARC2014)
+# Proc. TRECVID Workshop
+# Springer-Verlag, Lecture Notes in Computer Science (LNCS) series
+# in IEEE International Conference on Swarm Intelligence (IC-SI),
+# SMC
+# IEEE international conference on Systems, Man, and Cybernetics (SMC).
+# Lecture Notes in Artificial Intelligence
+# SAB
+# Proceedings - 2014 Australian Communications Theory Workshop (AusCTW 2014)
+# 2014 Australian Communications Theory Workshop (AusCTW)
+# ComPAS'2014
+# ComPAS'2014 : Conférence d'informatique en Parallélisme, Architecture et Système
+# European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning
+# European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning
+# Actes conférence ICECS 2013
+# ICECS 2013
+# Colloque national du GDR SOC-SIP
+# Actes Journées nationales de l'optique guidée JNOG'33
+# Journées nationales de l'optique guidée JNOG 2013
+# Actes conférence IEEEE-CSNDSP
+# CSNDSP'14
+# Optoelectronics and Advanced Materials - Rapid Communications OAM-RC
+# International Symposium on Reconfigurable Communication-centric Systems-on-Chip (ReCoSoC'2014)
+# International Symposium on Reconfigurable Communication-centric Systems-on-Chip (ReCoSoC'2014)
+# Proceedings of 14th ECNDT conference
+# European Conference on Non-Destructive Testing
+# International Symposium on Reconfigurable Communication-centric Systems_on-Chip (ReCoSoC'2014)
+# International Symposium on Reconfigurable Communication-centric Systems_on-Chip (ReCoSoC'2014)
+# Proceedings of IEEE FTFC Conference
+# Faible Tension Faible Consommation
+# IEEE Conference on Computer Vsion and Pattern Recognition
+# IEEE Conference on Computer Vsion and Pattern Recognition
+# 12th International Workshop on Content-Based Multimedia Indexing
+# 12th International Workshop on Content-Based Multimedia Indexing
+# EDA
+# 3ème journée francophone sur les Entrepôts de Données et l'Analyse en ligne
+# Field-Programmable Technology (FPT), 2011 International Conference on
+# Field-Programmable Technology (FPT), 2011 International Conference on
+# Proceedings of the 22nd European Signal Processing Conference
+# EUSIPCO 2014
+# Pattern Recognition Letters
+# IEEE Int. Conf. on Image Processing
+# IEEE Int. Conf. on Image Processing
+# The Third Joint IEEE International Conference on Development and Learning on Epigenetic Robotics
+# ICDL-Epirob 2013 Osaka Japan
+# Fourth International Symposium on Biology of Decision Making
+# SBDM 2014 Paris France
+# SBDM 2013 PAris France
+# Third International Symposium on Biology of Decision Making
+# IAPR International Conference on Pattern Recognition
+# IAPR International Conference on Pattern Recognition
+# Proceedings of the 8th ACM/IEEE International Symposium on Networks-on-Chip
+# NOCS 2014
+# Proceedings of IEEE-IST Conference
+# International Conference on Imaging Systems and Techniques
+# 21st IEEE International Conference on Electronics Circuits and Systems - ICECS 2014
+# icdl-Epirob 2014 Genova Italia
+# Neural Networks
+# IEEE International Conference on Image Processing
+# IEEE International Conference on Image Processing
+# IEEE International Conference on Image Processing
+# IEEE International Conference on Image Processing
+# CETSIS2014 : Enseignement des Technologies et des Sciences de l'Information et des Systèmes
+# IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
+# IEEE International Conference on Image Processing
+# International Conference on Pattern Recognition
+# International Conference on Pattern Recognition
+# IEEE International Symposium on Field-Programmable Custom Computing Machines
+# Digital System Design
+# Digital System Design (DSD), 2014 17th Euromicro Conference on
+# Pattern Recognition
+# International Journal of Biomedical Imaging
+# Information Theory, IEEE Transactions on
+# ICECS
+# ISIP 2012
+# Journal of Multimedia Processing and Technologies
+# International Conference on 3D Imaging - IC3D 2014
+# MEDES '09: International ACM Conference on Management of Emergent Digital EcoSystems
+# Machine Vision and Applications
+# Inter Noise
+# international conference on Design Automation and Test in Europe
+# workshop on "Neuromorphic and Brain-Based Computing Systems"
+# Journal of Real-Time Image Processing, Springer
+# Neural Networks
+# Information Theory Workshop (ITW), 2014 IEEE
+# ITW
+# Ultra Modern Telecommunications and Control Systems and Workshops (ICUMT), 2012 4th International Congress on
+# International Conference on Auditory Display (ICAD)
+# International Conference on Auditory Display (ICAD)
+# IEEE Signal Processing Magazine
+# WCC 2011 - Workshop on coding and cryptography
+# Journal of Physiology - Paris
+# Neural Computation
+# ACM Transactions on Knowledge Discovery from Data (TKDD)
+# SoCPaR'2010: International Conference of Soft Computing and Pattern Recognition
+# SOCPAR'2009: Proceedings of the International Conference of Soft Computing and Pattern Recognition
+# Colloque National du GDR Soc/SiP

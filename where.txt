@@ -1,0 +1,465 @@
+# Milan, Italy
+# France
+# Berlin, Germany
+# CAEN, France
+# France
+# Firenze, Italy
+# France
+# France
+# United States
+# South Korea
+# Brest, France
+# San Diego, CA, United States
+# Bordeaux, France
+# Salt Lake City, United States
+# Paris, France
+# Thessalonique, Greece
+# San Antonio, United States
+# Reno, United States
+# Sydney, Australia
+# Nice, France
+# France
+# Turkey
+# Turkey
+# United States
+# United States
+# Netherlands
+# United States
+# France
+# Canada
+# Italy
+# France
+# United States
+# Singapore
+# Belgium
+# France
+# France
+# Paris, France
+# United States
+# Princeton, United States
+# Princeton, United States
+# Toronto, Canada
+# France
+# France
+# France
+# France
+# Taipei, Taiwan
+# France
+# France
+# France
+# France
+# France
+# Bilbao, Spain
+# Cetraro, Italy
+# Fortaleza, Brazil
+# New Zealand
+# Spain
+# New Orleans, LA, United States
+# Cambridge, MA, United States
+# Padova, Italy
+# Antwerp, Belgium
+# Lisboa, Portugal
+# Autin, United States
+# Tottori, Japan
+# Nice, France
+# Seoul, South Korea
+# Seoul, South Korea
+# Glasgow, United Kingdom
+# Lucca, Italy
+# Sydney, Australia
+# Grenoble, France
+# Stuttgard, Germany
+# Munich, Germany
+# Monterey, CA, United States
+# Toronto, Canada
+# Bruxelles, Belgium
+# Cancun, Mexico
+# Sophia-Antipolis, France
+# Bari, Italy
+# Montpellier, France
+# Amsterdam, Netherlands
+# France
+# Lyon, France
+# Malacca, Malaysia
+# Czech Republic
+# Rhodes, Greece
+# Buenos Aires, Argentina
+# Prague, Czech Republic
+# Rhodes, Greece
+# Varsovie, Poland
+# Cergy, France
+# Toronto, Canada
+# Toronto, Canada
+# Bologna, Italy
+# Lausanne, Switzerland
+# Lausanne, Switzerland
+# Lausanne, Switzerland
+# Lausanne, Switzerland
+# Guangzhou, China
+# Auckland, New Zealand
+# Barcelona, Spain
+# Santander, Spain
+# Seoul, South Korea
+# Seoul, South Korea
+# Siena-Tuscany, Italy
+# Shanghai, China
+# St.Petersburg, Russia
+# Wuhan, China
+# Austin, Texas, United States
+# Austin, Texas, United States
+# Taichung, China
+# Miami, Florida, United States
+# San Diego (CA), United States
+# Las Vegas, United States
+# Oslo, Norway
+# Cairo, Egypt
+# Niagara Falls, Canada
+# Portugal
+# Dijon, France
+# Paris, France
+# Paris, France
+# Thessaloniki, Greece
+# Taipei, Taiwan
+# St. Petersburg, Russia
+# Amsterdam, Netherlands
+# Paris, France
+# Perugia, Italy
+# Marrakech, Morocco
+# Southampton, United Kingdom
+# Rome, Italy
+# Paris, France
+# Toulouse, France
+# Sinaia, Romania
+# Besançon, France
+# Valencia, Spain
+# Damascus, Syria
+# Damascus, Syria
+# Damascus, Syria
+# Damascus, Syria
+# Iasi, Romania
+# Sinaia, Romania
+# Sinaia, France
+# Graz, Austria
+# Athens, Greece
+# Bucharest, Romania
+# Grenoble, France
+# Paris, France
+# Aalborg, Denmark
+# Saint Malo, France
+# Cergy-Pontoise, France
+# Algarve, Portugal
+# Marrakech, Morocco
+# Miami, United States
+# Berlin, Germany
+# bruxelles, Belgium
+# Gaithersburg, United States
+# Monticello, United States
+# Taormina, Italy
+# Brussels, Belgium
+# Bruxelles, Belgium
+# Bruxelles, Belgium
+# Bordeaux, France
+# Spain
+# France
+# France
+# Sevilla, Spain
+# Toulouse, France
+# Toulouse, France
+# Kyoto, Japan
+# Nantes, France
+# Nantes, France
+# Frankfurt am Main, Germany
+# Montpellier, France
+# Saint Petersburg, Russia
+# New York, United States
+# Montpellier, France
+# Pacific Grove, United States
+# Istanbul, Turkey
+# Prague, Czech Republic
+# Hammamet, Tunisia
+# United States
+# Rome, Italy
+# New Dehli, India
+# Edimbourg, United Kingdom
+# Bordeaux, France
+# Bordeaux, France
+# United States
+# Toulouse, France
+# San Francisco, United States
+# Toulouse, France
+# Saint Louis, Senegal
+# Germany
+# Saint Louis, Senegal
+# Marrakech, Morocco
+# kiev, Ukraine
+# avignon, France
+# tozeur, Tunisia
+# Grenoble, France
+# Belgium
+# Grenoble, France
+# Tunisia
+# Finland
+# Cachan, France
+# Bordeaux, France
+# Dunkerque, France
+# Limerik, Ireland
+# Bernstein, Germany
+# budapest, Hungary
+# nantes, France
+# Brest, France
+# San Diego (CA), United States
+# St.Petersburg, Russia
+# Aachen, Germany
+# Aachen, Germany
+# Bordeaux, France
+# Prague, Czech Republic
+# Bordeaux, France
+# Kyoto, Japan
+# Brest, France
+# United States
+# China
+# Switzerland
+# South Korea
+# Kyoto, Japan
+# France
+# United Kingdom
+# United States
+# France
+# France
+# Gaithersburg, MD, United States
+# Saint-Petersburg, Russia
+# Thailand
+# Pisa, Italy
+# Swansea, United Kingdom
+# Bruges, Belgium
+# Bordeaux, France
+# Bordeaux, France
+# Bordeaux, France
+# Bordeaux, France
+# Snowbird, United States
+# Bled, Slovenia
+# Shanghai, China
+# France
+# Huangshan, China
+# Regensburg, Germany
+# Madeira, Portugal
+# Regensburg, Germany
+# Bangkok, Thailand
+# Barcelona, Spain
+# Lyon, France
+# France
+# Athènes, Greece
+# Bruxelles, Belgium
+# Singapore
+# Paris, France
+# Paris, France
+# Odense, Denmark
+# Séville, Spain
+# Lausanne, Switzerland
+# Italy
+# United States
+# France
+# Nantes, France
+# San Diego, California, USA, United States
+# Athènes, Greece
+# Hangzhou, China
+# Lausanne, Switzerland
+# Vila Moura, Algarve, Portugal
+# San Diego, California, United States
+# Nantes, France
+# Paris, France
+# Cambridge, MA, United States
+# San Diego, United States
+# Guangzhou, China
+# Amsterdam, Netherlands
+# Bruges, Belgium
+# Tsukuba, Japan
+# Osaka, Japan
+# San Diego, CA, United States
+# Saint-Gilles (Reunion Island), France
+# Paris, France
+# Amsterdam, Netherlands
+# Boston, MA, United States
+# Boston, MA, United States
+# Paris, France
+# Bucarest, Romania
+# Göteborg, Sweden
+# Lausanne, Switzerland
+# Singapore, Singapore
+# Rabat, Morocco
+# Rabat, Morocco
+# Istambul, Turkey
+# Paris, France
+# Avignon, France
+# Portugal
+# Vietnam
+# Paris, France
+# Boston, United States
+# Boston, United States
+# Lausanne, Switzerland
+# Gaithersburg, MD, United States
+# France
+# Dresden, Germany
+# Vancouver, Canada
+# Tampa, United States
+# Cairo, Egypt
+# Hong-Kong, Hong Kong SAR China
+# Yokohama, Japan
+# Paris, France
+# United States
+# Canada
+# United States
+# Morocco
+# Morocco
+# Germany
+# Cancun, Mexico
+# United States
+# Switzerland
+# France
+# Switzerland
+# South Korea
+# Italy
+# United Kingdom
+# South Africa
+# Italy
+# Hong Kong SAR China
+# Troyes, France
+# Abu Dhabi, United Arab Emirates
+# Karlsruhe, Germany
+# Italy
+# Bruges, Belgium
+# Monticello, IL, United States
+# Barcelone, Spain
+# Kiev, Ukraine
+# Sapporo, Japan
+# Sapporo, Japan
+# Sapporo, Japan
+# Istanbul, Turkey
+# Wroclaw, Poland
+# Toulouse, France
+# Caen, France
+# France
+# France
+# Heidelberg, Germany
+# Cancun, Mexico
+# United States
+# Montpellier, France
+# Strasbourg, France
+# Toulouse, France
+# Villetaneuse, France
+# Bruxelles, Belgium
+# Canada
+# St Petersbourg, Russia
+# Karlsruhe, Germany
+# Vancouver, Canada
+# Cluny, France
+# Kyoto, Japan
+# Girona, Spain
+# Osaka, Japan
+# Paris, France
+# Osaka, Japan
+# Italy
+# United States
+# France
+# Paris, France
+# Paris & Cergy-Pontoise, France
+# Melbourne, Australia
+# Paris, France
+# Seattle, United States
+# Paris, France
+# Osaka, Japan
+# Japan
+# Prague, Czech Republic
+# Porto, Portugal
+# Istanbul, Turkey
+# Prague, Czech Republic
+# Brest, France
+# Osaka, Japan
+# Osaka, Japan
+# Wroclaw, Poland
+# Brest, France
+# Sweden
+# Spain
+# Ljubljana, Slovenia
+# Paris, France
+# Italy
+# Angers, France
+# Brno, Czech Republic
+# Brno, Czech Republic
+# Paris, France
+# Paris, France
+# United Kingdom
+# Melbourne, Australia
+# Chania, Greece
+# Istanbul, Turkey
+# Osaka, Japan
+# Turkey
+# Istanbul, Turkey
+# Sevilla, Spain
+# United Kingdom
+# Grenoble, France
+# Brest, France
+# Sevilla, Spain
+# Bruges, Belgium
+# Brest, France
+# France
+# France
+# Dijon, France
+# Samara, Russia
+# Turin, Italy
+# Dallas, Texas, United States
+# United States
+# Portugal
+# Gaithersburg, MD, United States
+# China
+# Turkey
+# Castellon, Spain
+# Sydney, Australia
+# Neuchâtel, Switzerland
+# Bruges, Belgium
+# Abu Dhabi, United Arab Emirates
+# Paris, France
+# Paris-Viletaneuse, France
+# Manchester, United Kingdom
+# Montpellier, France
+# Pragues, Czech Republic
+# Montpellier, France
+# Monaco, Monaco
+# Columbus, Ohio, United States
+# France
+# Poitiers, France
+# New Delhi, India
+# Lisbonne, Portugal
+# Paris, France, France
+# Japan
+# Paris, France
+# Paris, France
+# Stockholm, Sweden
+# Ferrara, Italy
+# Santorini, Greece
+# Marseille, France
+# Genova, Gabon
+# Paris, France
+# Paris, France
+# Besancon, France
+# Paris, France
+# Stockholm, Sweden
+# Stockholm, Sweden
+# Boston, United States
+# Verona, Italy
+# Verona, Italy
+# marseille, France
+# Sapporo, Japan
+# Addis Ababa, Ethiopia
+# Liège, Belgium
+# Lyon, France
+# Melbourne, Australia
+# Grenoble, France
+# Hobart, Australia
+# St. Petersburg, Russia
+# Lodz, Poland
+# New-York, United States
+# Paris, France
+# Paris, France
+# France
+# France

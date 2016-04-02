@@ -1,0 +1,719 @@
+%T Morphological Component Analysis and Inpainting on the sphere : Application in Physics and Astrophysics
+%T A model of grid cells involving extra hippocampal path integration and the hippocampal loop
+%T Double well potential as diffusive function for PDE-based scalar image restoration method
+%T Cbir in distributed databases using a multi-agent system.
+%T A fully automatic segmentation method for myocardial boundaries of left ventricle in tagged MR images
+%T Comparison of Different Grid of Tags Detection Methods in Tagged Cardiac MR Imaging (Journal Version)
+%T Recherche d'objets par appariement de graphes combinant contours et régions
+%T FReBIR : an image retrieval system based on fuzzy region matching
+%T Using a negative capacitance to increase the tuning range of a varactor diode in MMIC technology
+%T Computing supports of conjunctive queries on relational tables with functional dependendies
+%T Link Adaptation for Framed Multimedia Data Transmission over a DS-CDMA Communication System
+%T Mining all frequent selection-projection queries from a relational table
+%T Indexing of 3D Models Based on Graph of Surfacic Regions
+%T Experience-based Learning Mechanism for Neural Controller Adaptation: Application to Walking Biped Robots
+%T Adaptive Locomotive Behaviors of a Biped Robot: Patterns Generation and Classification
+%T MUSCLE EMULATION WITH DC MOTOR AND NEURAL NETWORKS FOR BIPED ROBOTS
+%T Three DOF Hybrid Mechanism for Humanoid Robotic Application:Modeling, Design and Realization
+%T State Machine-Based Controller for Walk-Halt-Walk Transitions on a Biped Robot
+%T Finite Alphabet Iterative Decoding (FAID) of the (155,64,20) Tanner Code
+%T Iterative Decoding Beyond Belief Propagation
+%T Décodeurs multi-niveaux pour le décodage quasi-optimal des codes LDPC
+%T Spike Timing Computational Model of Hippocampal-Frontal Dynamics Underlying Navigation and Short-Term Memory
+%T Why and How Can Hippocampal Transition Cells Be Used in Reinforcement Learning ?
+%T Model of the Hippocampal Learning of Spatio-temporal Sequences
+%T Space and time-related firing in a model of hippocampo-cortical interactions
+%T Relationship between structure, dynamics and function in neural networks
+%T Comparison between multiple linear regressions and artificial neural networks to predict urban sound quality
+%T Méthodes d'Apprentissage pour la Recherche d'Images par le Contenu.
+%T Méthodes d'apprentissage sémantiques: application à la recherche d'images.
+%T Recherche d'images par noyaux sur graphes de régions.
+%T Interactive Exploration for Image Retrieval.
+%T Feature based approach to semi-supervised similarity learning.
+%T Stochastic exploration and active learning for image retrieval.
+%T Combining visual dictionary, kernel-based similarity and learning strategy for image category retrieval
+%T Active learning methods for Interactive Image Retrieval.
+%T Active Boosting for interactive object retrieval.
+%T Kernel on Graphs based on Dictionary of Paths for Image Retrieval.
+%T Image retrieval with graph kernel on regions.
+%T Kernel on Bags of Fuzzy Regions for fast object retrieval
+%T Kernel on Bags for multi-object database retrieval.
+%T Precision-Oriented Active Selection for Interactive Image Retrieval.
+%T Image Retrieval using Long-Term Semantic Learning
+%T Multimedia Indexing and Fast Retrieval Based on a Vote System
+%T Semantic kernel learning for interactive image retrieval
+%T Active learning techniques for user interactive systems: application to image retrieval
+%T Semantic Kernel Updating for Content-Based Image Retrieval
+%T RETIN AL: An Active Learning Strategy for Image Category Retrieval
+%T Discriminative Classification vs Modeling Methods in CBIR
+%T A Comparison of Active Classification Methods for Content-Based Image Retrieval
+%T Boosting actif pour la recherche interactive d'images
+%T Nonbinary Hybrid LDPC Codes
+%T Perception: Insights from the Sensori-Motor Approach
+%T Turbo Decision Aided Receivers for Clipping Noise Mitigation in Coded OFDM
+%T Design of Cages with a Randomized Progressive Edge-Growth Algorithm
+%T Efficient Decoding of Turbo Codes with Nonbinary Belief Propagation
+%T Design of regular (2,dc)-LDPC codes over GF(q) using their binary images
+%T Jointly Decoded Raptor Codes: Analysis and Design for the BIAWGN Channel
+%T Low-Complexity Decoding for Non-Binary LDPC Codes in High Order Fields
+%T UEP Concepts in Modulation and Coding
+%T Architecture of a Non-binary LDPC Decoder for the Next Generation Coding Systems
+%T Fast Simulation for the Performance Evaluation of LDPC Codes using Fast Flat Histogram Method
+%T Rate Splitting Issue for Finite Length Raptor Codes
+%T Improved Impulse Method to Evaluate the Low Weight Profile of Sparse Binary Linear Codes
+%T Emotional interactions as a way to structure learning
+%T What should be taught first: the emotional expression or the face?
+%T Using emotional interactions for visual navigation task learning
+%T Towards a new social referencing paradigm
+%T Emergent imitative behavior on a robotic arm based on visuo-motor associative memories
+%T Proprioception and imitation: on the road to agent individuation
+%T Autonomous Development Of Social Referencing Skills
+%T About the constructivist role of auto-evaluation in interactive learnings and self-development
+%T Proprioception and imitation: on the road to agent individuation
+%T Imitation as a Communication Tool for Online Facial Expression Learning and Recognition
+%T Perception: Insights from the Sensori-motor Approach
+%T Discovery and Application of Functional Dependencies in Conjunctive Query Mining
+%T generalized model of articulated electromechanical systems with elasticities in transmissions
+%T Mining frequent conjunctive queries in star schemas
+%T IFOX: interface for ordered XQuery an algebraic oriented tool for ordered XQuery visualization
+%T Prefix based numbering schemes for XML: techniques, applications and performances
+%T Relational Databases
+%T Optimized IR-HARQ Schemes Based on Punctured LDPC Codes over the BEC
+%T A Color Contour Detector Based on Dempster-Shafer Theory.
+%T A High Level Synthesis System for VLSI Image Processing Applications
+%T Des architectures intégrées pour la vision : synthèse automatique en trois exemples
+%T A Complete Environment for Global Architecture Synthesis
+%T Investigating Real-Time Validation of Real-Time Image Processing ASICs
+%T Fast Stable Matching Algorithm Using Asynchronous Parallel Programming Model
+%T SOC and RTOS: Managing IPs and Tasks Communications
+%T System Level Modelling for Reconfigurable SoCs
+%T Finite-length scaling of non-binary (c, d) LDPC codes for the BEC
+%T A DVB-S2 compliant LDPC decoder integrating the Horizontal Shuffle Scheduling
+%T Transaction Level Modelling of SCA compliant Software Defined Radio Waveforms and Platforms PIM/PSM
+%T Binary weight distribution of non-binary LDPC codes
+%T Waterfall region performance of punctured LDPC codes over the BEC
+%T Low complexity, Low memory EMS algorithm for non-binary LDPC codes
+%T Outage thresholds of LDPC codes over nonergodic block-fading channels
+%T Architecture of a low-complexity non-binary LDPC decoder for high order fields
+%T A Modular SystemC RTOS Model for Embedded Services Exploration
+%T Towards a Common HW/SW Interface-centric and Component-oriented Specification and Design Methodology
+%T Mapping Semantics of CORBA IDL and GIOP to Open Core Protocol for Portability and Interoperability of SDR Waveform Components
+%T Dynamic adaptation of Hardware-Software scheduling for Reconfigurable System-on-Chip
+%T Split non-binary LDPC codes
+%T SystemC multiprocessor RTOS model for services distribution on MPSoC platforms
+%T Multiprocessor Task Migration Implementation in a Reconfigurable Platform
+%T Task Migration in MPSoC Reconfigurable Platforms
+%T SoPC-based current controler for Permanent Magnet Synchronous Machines drive
+%T Exploring RTOS issues with a high-level model of a reconfigurable SoC platform
+%T A Neural Solution for the Level 2 Trigger in Gamma Ray Astronomy
+%T Caractérisation de l'anti-monotonie du support des requêtes projection-sélection sur une table relationnelle en présence de dépendances fonctionnelles
+%T Towards a Novel Approach to Multimedia Data Mixed Fragmentation
+%T CBGP: Classification Based on Gradual Patterns
+%T Repeatability and workability evaluation of SIGMOD 2009
+%T CSTST 2008: Proceedings of the 5th International Conference on Soft Computing as Transdisciplinary Science and Technology
+%T Compton scattered emission imaging based on the V-line Radon transform and its simulation
+%T Inversion of a new V-line Radon transform and its numerical analysis
+%T Compton Scattered imaging based on the V-line Radon transform and its medical imaging applications
+%T Modeling and simulation results on a new Compton scattering tomography
+%T A new circular-arc Radon transformand the numerical method for its inversion
+%T Phase-Precoding without CSI for Packet Retransmissions over Frequency-Selective Channels
+%T Efficient neural models for visual attention
+%T Noise-enhanced Nonlinear PDE for Edge Restoration in Scalar Images
+%T UEP Non-binary LDPC Codes: a Promising Framework based on Group Codes
+%T Rateless Coding for Block Fading Channels using Channel Estimation Accuracy
+%T Periodic Hadamard Phase Precoding for HARQ Systems over Intersymbol Interference Channels
+%T Nonbinary Group Decoder Diversity for Decoding Dense Block Codes
+%T Preprocessing for an Efficient Decoding of Turbo-Codes with non-binary Belief Propagation
+%T Randomized Progressive Edge-Growth (RandPEG)
+%T Low-Rate Nonbinary hybrid LDPC Codes
+%T Efficient Performance Evaluation of Forward Error Correcting Code
+%T Weight Distribution of Non-binary LDPC Codes
+%T Non-Binary LDPC Codes defined over the General Linear Group: Finite Length Design and Practical Implementation Issues
+%T Performance Evaluation of Non-Binary LDPC Codes on Wireless Channels
+%T Weight Distributions of Multi-Edge type LDPC Codes
+%T Two-Bit Message Passing Decoders for LDPC Codes Over the Binary Symmetric Channel
+%T Non-binary Split LDPC Codes defined over Finite Groups
+%T Structured High-Girth Non-Binary Cycle Codes
+%T An Efficient Pseudo-Codeword Search Algorithm for Belief Propagation Decoding of LDPC Codes
+%T Improved Decoding Architecture for Non-binary Split LDPC Codes defined over Finite Groups
+%T Rate-Compatible Non-Binary LDPC Codes Concatenated with Multiplicative Repetition Codes
+%T Multilevel Decoders Surpassing Belief Propagation on the Binary Symmetric Channel
+%T Optimized puncturing distributions for irregular non-binary LDPC codes
+%T Getting Closer to MIMO Capacity with Non-Binary Codes and Spatial Multiplexing
+%T Trapping Set Enumerators for Specific LDPC Codes
+%T Cognitive map plasticity and imitation strategies to improve individual and social behaviors of autonomous agents
+%T Comparing Multi-agent System and Mixed-Integer Programming Approaches on a Simple Optimization Problem
+%T Decision Directed Channel Estimation and High I/Q Imbalance Compensation in OFDM Receivers
+%T Diversity techniques for single-carrier packet retransmissions over frequency selective channels
+%T Practical Radio Link Resource Allocation for Fair QoS-Provision in OFDMA Cellular Systems with Partial Channel-State Information
+%T Extraction of Windows in facade using Kernel on Graph of Contours
+%T Technique de réduction adaptative de l'espace de recherche pour les méthodes d'optimisation par recherche locale
+%T Technique de réduction d'ordonnancements hors-ligne pour applications embarquées à contraintes temps réel
+%T Windows and Facades Retrieval using Similarity on Graph of Contours
+%T Indexing Personal Image Collections: A Flexible, Scalable Solution
+%T Image clustering based on a shared nearest neighbors approach for tagged collections.
+%T Optimization of the acoustic measurement duration in urban environment through Kohonen self-organizing map
+%T Architecture matérielle pour implantation de réseaux de neurones en temps réel
+%T A Circuit-Level Model of Hippocampal Place Field Dynamics Modulated by Entorhinal Grid and Suppression-Generating Cells
+%T Using Emotional Interactions for Visual Navigation Task Learning
+%T Path Integration Working Memory for Multi Task Dead Reckoning and Visual Navigation
+%T From Conditioning of a Non Specific Sensor to Emotional Regulation of Behavior
+%T Frustration as a Generical Regulatory Mechanism for Motivated Navigation
+%T Artwork 3D model database indexing and classification
+%T Real time implementation of CTRNN and BPTT algorithm to learn on-line biped robot balance: Experiments on the standing posture
+%T An efficient pseudo-codeword search algorithm for Belief Propagation decoding of LDPC codes
+%T Compensation of the HF memory effect of a nonlinear amplifier in a multi-carrier transmission
+%T Pre-compensation of the frequency dependance of a non linear amplifier in a multi-carrier transmission
+%T Low complexity IQ Imbalance estimation in the presence of a carrier frequency offset for OFDM receivers
+%T Time Slot Allocation for TDMA/CDMA TH-UWB Ad-Hoc Networks
+%T New extraction method of an equivalent circuit for an inductor in BiCMOS technology including lossy effects
+%T VHDL-AMS model of RF-Interconnect System for Global On-Chip Communication
+%T A Flexible Operating System for Dynamic Applications
+%T Correction of In-Band-self-interference due to Imperfect Frequency Synthesizer
+%T Successive Interference Cancellation (SIC) in MB-OFDM Receiver with Imperfect Local Oscillator
+%T Convertisseur numérique analogique 9 bits RF pour une architecture d'émetteur numérique
+%T A 1.8 GHz GM-C 10th Order Chebyshev filter implemented IN A 0.35 µm SiGe RF BiCMOS technology for telecommunications
+%T Wide Tuning Range Active RF Bandpass Filter with MOS Varactors
+%T Etude et modélisation d'une nouvelle configuration d'un réseau sur puce optique (ONoC)
+%T A 3-Mode Switched-Gain Low Noise Amplifier for Wireless Bands Applications Using an MMIC Technology
+%T A 2.4-GHz Front-end System Design for WLAN Applications using 0.35μm SiGe BiCMOS Technology
+%T A Tunable Active MMIC Time Delay for Communication Systems in SiGe BiCMOS Technology
+%T A Fully Differential Low Phase Noise and Extra Linear VCO Design in SiGe BiCMOS Technology
+%T A 1.2-V Single-Stage, SiGe BiCMOS Low-Noise Amplifier at 5.8GHz for Wireless Applications
+%T Frequency enhancement method applied to a CMOS RF simulated inductor BP filter
+%T Active RF bandpass filter with wide frequency tuning range
+%T CMOS RF active inductor with improved tuning capability
+%T Design of an optically frequency or phase-controlled oscillator for hybrid fiber-radio LAN at 5.2 GHz
+%T A Fully Integrated SiGe BiCMOS MMIC Front-end for Using in the ISM Bands
+%T Improved Rf Cmos Active Inductor With High Self Resonant Frequency
+%T Front-end components design for IEEE 802.11B/G, Applications using an MMIC technology
+%T A Tunable MMIC VCO in 0.35µm SiGe BiCMOS Technology
+%T Design of HEMT GaN power amplifiers with wideband control of 2nd harmonic impedances in S-Band
+%T Analytical tools for optimizing the error correction performance of arithmetic codes
+%T Wyner-Ziv Coding with uncertain side information quality
+%T Optimizing the Free Distance of Error-Correcting Variable-Length Codes
+%T Efficient computation and optimization of the free distance of variable-length finite-state joint source-channel codes
+%T Active Focus and Zoom Control Used for Scene Analysis
+%T Nonlinear low-level image processing improvement by a purposely injection of noise
+%T Blind frame synchronization of Reed-salomon codes
+%T Frame synchronization techniques for non-binary LDPC codes over GF(q)
+%T MRI segmentation using histogram based active contour method: application to prostate MR image analysis
+%T Accuracy Amelioration of an Integrated Real-Time 3D Image Sensor
+%T IRIM at TRECVID 2010: Semantic Indexing and Instance Search
+%T Some Results on MAP Decoding of Non-Binary LDPC Codes Over the BEC
+%T On iterative performance of LDPC and Root-LDPC codes over block-fading channels
+%T IR-HARQ schemes with finite-length punctured LDPC codes over the BEC
+%T Improving Image Similarity With Vectors of Locally Aggregated Tensors
+%T Segmentation of Cellular Structures in Actin Tagged Fluorescence Confocal Microscopy Images
+%T Confocal Microscopy Segmentation Using Active Contour Based on Alpha-Divergence
+%T Alpha-divergences pour la segmentation par contours actifs basés histogramme : application à la segmentation d'images cellulaires en microscopie confocale tridimensionnelle
+%T Ségrégation et cognition spatiale
+%T An Efficient Computation of Frequent Queries in a Star Schema
+%T Sélection des variables informatives pour l'apprentissage supervisé multi-tables
+%T TIGER: Querying Large Tables through Criterion Extension
+%T Incremental Kernel Learning for Active Image Retrieval without Global Dictionaries
+%T Statistical Shape Model of Legendre Moments with Active Contour Evolution for Shape Detection and Segmentation
+%T A General Top-k Algorithm for Web Data Sources
+%T RoSeS: A Continuous Content-Based Query Engine for RSS Feeds
+%T Adaptive Rate Allocation Scheme for Uplink TH-UWB Networks
+%T A simple neural network controller merging different behaviors for collector robots
+%T A Neural Network Generating Force Command for Motor Control of a Robotic Arm
+%T On-Line Learning and Planning in a Pick-and-Place Task Demonstrated Through Body Manipulation
+%T Study and modeling of a new configuration of an optical network on chip (ONOC) using FDTD
+%T Block-markov LDPC scheme for half-and full-duplex erasure relay channel
+%T RoSeS: a continuous query processor for large-scale RSS filtering and aggregation
+%T SiGe heterojunction bipolar phototransistor for optics-microwaves interfacing
+%T Self-organization of reconfigurable processing elements during mobile robots missions
+%T Pricing and bandwidth allocation problems in wireless multi-tier networks
+%T Intercarrier interference in uplink OFDMA systems with carrier frequency offset
+%T Distributed learning policies for power allocation in multiple access channels
+%T Bayesian Rate-efficient power allocation games
+%T Energy Efficient Communications in MIMO Wireless Channels: Information Theoretical Limits
+%T Joint estimation of channel and carrier frequency offset from the emitter, in an uplink OFDMA system
+%T Toward all optical interconnections in chip multiprocessor
+%T Geometric Consistency Checking for Local-Descriptor Based Document Retrieval
+%T A developmental approach of imitation to study the emergence of mirror neurons in a sensory-motor controller
+%T 3D Confocal Microscopy data analysis using level-set segmentation with alpha-divergence similarity measure
+%T Heterogeneous and opportunistic wireless networks
+%T FPGA Implementation of Reconfigurable ADPLL Network for Distributed Clock Generation
+%T Inexact graph matching based on kernels for object retrieval in image databases
+%T Discrimination of urban soundscape through Kohonen map
+%T Gradient Intensity Selectivity for Scalar Image Restoration using PDE
+%T Linearity improvement thanks to the association of Active Constellation Extension and digital predistortion for OFDM
+%T Amélioration des performances de la prédistorsion numérique en bande de base par association de l'Active Constellation Extension pour un signal OFDM
+%T SoCPaR 2010: Proceedings of the 2010 International Conference of Soft Computing and Pattern Recognition
+%T Informative Variables Selection for Multi-Relational Supervised Learning
+%T Mining Frequent Disjunctive Selection Queries
+%T Rewriting Aggregate Queries using Functional Dependencies
+%T TIGER : Interrogation d'une table relationnelle par extension de critères
+%T Frequent Query Computation in a Star Schema
+%T Mining Frequent Conjunctive Queries in Star Schemas (Keynote)
+%T Résumés de Cubes de Données
+%T An Apriori-based Approach for First-Order Temporal Pattern Mining
+%T Enhancing Multimedia Data Fragmentation
+%T An integrated 0.35µm CMOS technology inductor for wideBand LNA application
+%T Multiband Multi-Standard LNA with CPW Transmission Line Inductor
+%T Modelling of an inductor on SiGe: From the measurement to the equivalent scheme
+%T Model of a Thin Film Microstrip Line on a Silicon Substrate Including Eddy Current Effects and Skin Effect
+%T A dual wideband CMOS LNA design for the 4G of wireless applications
+%T Useful Noise effect for nonlinear PDE based restoration of scalar images
+%T Power control of spectrum-sharing in fading environment with partial channel state information
+%T Prototype of Video Endoscopic Capsule with 3D imaging capabilities
+%T Hardware task context management for fine grained dynamically recon gurable architecture
+%T OLLAF : a Fine Grained Dynamically Reconfigurable Architecture for OS Support
+%T Design of a Fine Grained Dynamically Reconfigurable Architecture for OS Support
+%T OLLAF : a Dual Plane Reconfigurable Architecture for OS Support
+%T Task model and online operating system API for hardware tasks in OLLAF platform
+%T Circular Harmonic Decomposition Approach for Numerical Inversion of Circular Radon Transforms
+%T Reconstruction d'Images basée sur la Décomposition Harmonique Circulaire pour une Nouvelle modalité de la Tomographie Compton
+%T UNE NOUVELLE MODALITÉ EN TOMOGRAPHIE COMPTON
+%T Dynamic Application Model for Scheduling with Uncertainty on Reconfigurable Architectures
+%T Apport des architectures connexionnistes aux rétines électroniques
+%T Non-Invasive Low Cost Method for Linear and Angular Accelerations Measurement in Biped Locomotion Mechanism
+%T Experience-based Learning Mechanism with a Concept of Vigilance
+%T Adaptive Behavior Of An Electromechanical Arm Robot In Case Of Physical Interaction With The Human Being
+%T Bipedal Locomotion Control with Rhythmic Neural Circuits
+%T Using the rhythm of non-verbal human-robot interaction as a signal for learning
+%T Weight Distributions of Multi-Edge type LDPC Codes
+%T On new V-line Radon transforms in R2 and their inversion
+%T Technique d'Optimisation du TRMC d'un LNA Différentiel aux Fréquences Millimétriques
+%T Low-complexity Finite-Precision Decoders for LDPC Codes
+%T Decimation-Enhanced Finite Alphabet Iterative Decoders for LDPC Codes on the BSC
+%T Trellis based Extended Min-Sum for Decoding Nonbinary LDPC codes
+%T Extended Non-Binary Low-Density Parity-Check Codes over Erasure Channels
+%T Décodeurs multi-niveaux pour le décodage quasi-optimal des codes LDPC
+%T Error Control Coding for B3G/4G Wireless Systems
+%T A NEW TRELLIS REPRESENTATION FOR SOURCE-CHANNEL RATE ALLOCATION
+%T Coexistence de Protocoles a Retransmissions Incrémentales pour un Canal Cognitif
+%T Opportunistic Secondary Spectrum Sharing Protocols for Primary implementing an IR type Hybrid-ARQ Protocol
+%T Etude de la fiabilité d'un amplificateur de puissance classe B à base de HEMT GaN, en bande S.
+%T Radon transforms on generalized cormack's curves and a new Compton scatter tomography modality
+%T On new V-line Radon transforms in R2 and their inversion
+%T New constructions of CSS codes obtained by moving to higher alphabets
+%T On a Low-Rate TLDPC Code Ensemble and the Necessary Condition on the Linear Minimum Distance for Sparse-Graph Codes
+%T Joint channel estimation and decoding of root LDPC codes in block-fading channels
+%T Some Results on Update Complexity of a Linear Code Ensemble
+%T Block-Error Performance of Root-LDPC Codes
+%T Finite-Length Punctured LDPC Codes over the BEC
+%T Scattered Radiation Emission Imaging: Principles and Applications
+%T Inversion of a new circular-arc Radon transform for Compton tomography
+%T Towards a new concept for high sensitivity Compton scatter emission imaging
+%T Alpha-divergence maximization for statistical region based active contour segmentation with non-parametric PDF estimations
+%T Design of an agile frequency synthesizer for UWB communications
+%T Critical carrier frequency offset for uplink OFDMA carrier allocation schemes without channel state information
+%T Trade off between frequency diversity and robustness to carrier frequency offset in uplink OFDMA system
+%T Conception d'un synthétiseur de fréquences agile multi-bandes
+%T Approximation polynomiale pour l'estimation conjointe du canal et le décalage en fréquence pour l'OFDMA en liaison montante
+%T Blind Identification of Underdetermined Mixtures by Simultaneous Matrix Diagonalization
+%T IRIM at TRECVID 2011: Semantic Indexing and Instance Search
+%T Image Restoration - Recent Advances and Applications
+%T Characterizing compressibility with Lorenz curves
+%T Biologically inspired neural networks for spatio-temporal planning in robotic navigation tasks
+%T Visual Indexing and Retrieval
+%T Segmentation of video capsule endoscopic images using alpha-divergence based active contour method
+%T Green radio despite "Dirty RF" front-end
+%T Fractional Entropy Based Active Contour Segmentation of Cell Nuclei in Actin-Tagged Confocal Microscopy Images
+%T Learning geometric combinations of Gaussian kernels with alternating Quasi-Newton algorithm
+%T Building Detection and Reconstruction from Mid- and High-Resolution Aerial Imagery
+%T Analyse d'images: filtrage et segmentation
+%T Mining frequent conjunctive queries using functional and inclusion dependencies
+%T Mining frequent conjunctive queries in relational databases through dependency discovery
+%T Prétraitement supervisé des variables numériques pour la fouille de données multi-tables
+%T Fouille des règles d'association généralisées à travers les disjonctions : Application aux données génomiques
+%T Recommendation algorithm as application in Semantic Social Network
+%T SurfOnHertz : un navigateur hertzien en radio logicielle pour l'indexation des bandes de radio diffusion FM
+%T Editorial: Neuronal ensemble recordings in integrative neuroscience.
+%T A MILP approach for designing robust variable-length codes based on exact free distance computation
+%T New Free Distance Bounds and Design Techniques for Joint Source-Channel Variable-Length Codes
+%T Design and implementation of an expressive gesture model for a humanoid robot
+%T Alpha-divergences pour la segmentation d'images par contours actifs basés histogrammes : Application à l'analyse d'images médicales et biomédicales
+%T Embodied Computing: Self-adaptation in Bio-inspired Reconfigurable Architectures
+%T TGV: an Efficient Model for XQuery Evaluation within an Interoperable System
+%T Classifying XML Materialized Views for their Maintenance on Distributed Web Sources
+%T Cost Framework for a Distributed Semi-Structured Environment
+%T Full Untyped XQuery Canonisation
+%T Tree Graph Views for a Distributed Pervasive Environment
+%T An Extensible Rule Transformation Model for XQuery Optimization
+%T Tree Graph Views for a Distributed Pervasive Environment
+%T TGV: a Tree Graph View for Modelling untyped XQuery
+%T An Efficient Evaluation of XQuery with TGV
+%T On the Maintenance of XML Materialized Views
+%T Classification of soil and vegetation by fuzzy K-means classification and particle swarm optimization
+%T Evidence of chaos in the Belief Propagation for LDPC codes
+%T On the Belief Propagation and its Dynamics
+%T A novel region graph construction based on trapping sets for the Generalized Belief Propagation
+%T Self-organization in embodied reconfigurable architectures.
+%T Social interaction for object recognition and tracking.
+%T Multimodal integration of visual place cells and grid cells for navigation tasks of a real robot
+%T Improved Linearization of a High Power Amplifier to Reduce Spectral Distortions Near the Saturation Area
+%T Characterizing the rate region of the coded side-information problem
+%T Pricing mechanisms for cooperative state information
+%T Matrix Exponential Learning: Distributed Optimization in MIMO systems
+%T Dynamic service selection games in heterogeneous small cell networks with multiple providers
+%T Hawks and Doves in a Dynamic Framework
+%T Prediction and explanation of sound quality indicators by multiple linear regressions and artificial neural networks
+%T An architecture for online chunk learning and planning in complex navigation and manipulation tasks
+%T Software radio FM broadcast receiver for audio indexing applications
+%T FPGA-based radio-on-demand broadcast receiver with musical genre identification
+%T Apport des réseaux de neurones dans le maillage spatial des paysages sonores urbains
+%T NEUROBOT : expériences croisées neurobiologie et robotique pour la compréhension des mécanismes cognitifs
+%T A comparison of methods for non-rigid 3D shape retrieval
+%T A synchrony based approach for human robot interaction
+%T Synchrony as a Tool to Establish Focus of Attention for Autonomous Robots
+%T "Synchrony" as a Way to Choose an Interacting Partner
+%T Toward long range robot navigation
+%T Multimodal integration of visual place cells and grid cells for robots navigation
+%T Erasure-correcting vs. erasure-detecting codes for the full-duplex binary erasure relay channel
+%T A Fresh Look at Coding for q-ary Symmetric Channels
+%T Adaptation Capability of Cognitive Map Improves Behaviors of Social Robots
+%T Effect of a Low Level Imitation Strategy on an Autonomous Multi-Robot System Using On-Line Learning for Cognitive Map Building
+%T RETIN: a smart interactive digital media retrieval system
+%T Linear kernel combination using boosting
+%T Using Spatial Pyramids with Compacted VLAT for Image Categorization
+%T Multi-Rate Resource Allocations for TH-UWB Wireless Communications
+%T Gain-Field Modulation Mechanism in Multimodal Networks for Spatial Perception
+%T La révolution de l'intelligence du corps
+%T Finite alphabet iterative decoders approaching maximum likelihood performance on the binary symmetric channel
+%T Multi-Relay Cooperative NB-LDPC coding with Non-Binary Repetition Codes
+%T Binary diversity for non-binary LDPC codes over the Rayleigh channel
+%T Experimental results about the dynamics of the Generalized Belief Propagation used on LDPC codes
+%T Analysis and Design of Ultra-Sparse Non-Binary Cluster-LDPC Codes
+%T Enhancing the Error Correction of Finite Alphabet Iterative Decoders via Adaptive Decimation
+%T Full diversity NB-LDPC coding with non-binary repetition symbols over the block fading channel
+%T Multi-relay cooperative NB-LDPC coding with non-ninary repetition codes over block-fading channels
+%T Signal Recovery Performance of the Interval-Passing Algorithm
+%T Approaching maximum likelihood decoding of finite length LDPC codes via FAID diversity
+%T A novel region graph construction based on trapping sets for the Generalized Belief Propagation
+%T Multiplicatively Repeated Non-Binary LDPC Codes
+%T Fountain Coding via Multiplicatively Repeated Non-Binary LDPC Codes
+%T RoSeS, un moteur de requêtes continues pour la syndication RSS à large échelle
+%T Breadth-first strategies for top-k algorithms over web data sources
+%T Optimizing large collections of continuous content-based RSS aggregation queries
+%T Spectrum-sharing power control with outage performance requirements and direct links CSI only
+%T Endocom and Cyclope: Two smart biomedical sensors for cardio-vascular surgery and gastro-enterology
+%T Embeddable Automatic Polyp Detection for Videoendoscopy and Wireless Videoendoscopy Images Analysis
+%T FPGA-based vision perception architecture for robotic missions
+%T Enhancing Reconfigurable Platforms Programmability for Synchronous Data-Flow Applications
+%T On the Generalized Belief Propagation and Its Dynamics
+%T Towards a mobile implementation of Waaves for Certified Medical Image Compression in E-health Applications
+%T Semantically Secure Lattice Codes for the Gaussian Wiretap Channel
+%T Quantum LDPC codes obtained by non-binary constructions
+%T Erasure-correcting vs. erasure-detecting codes for the full-duplex binary erasure relay channel
+%T Designing a Good Low-Rate Sparse-Graph Code
+%T Spatially coupled quantum LDPC codes
+%T IRIM at TRECVID 2012: Semantic Indexing and Instance Search
+%T L'interaction Sociale pour l'Apprentissage de la Reconnaissance et du Suivi d'Objets
+%T Self-Successive Interference Canceller for uplink OFDMA with Carrier Frequency Offsets
+%T Summarization Scheme Based on Near-Duplicate Analysis
+%T Fast Approximate Kernel-Based Similarity Search for Image Retrieval Task
+%T Optimization on active learning strategy for object category retrieval
+%T Scalable active learning strategy for object category retrieval
+%T Accurate Face Detection for Privacy in Street-view Mapping Applications Combining Face Boosting, Body Boosting and Skin Tone Detectors
+%T Virtu4D: a Real-time Virtualization of Reality
+%T Emotions as a dynamical system: the interplay between the meta-control and communication function of emotions
+%T Multi-Rate Resource Allocations for TH-UWB Wireless Communications
+%T Jointly Decoded Raptor Codes: Analysis and Design for the BIAWGN Channel
+%T Efficient Decoding of Turbo-codes with non-binary Belief Propagation
+%T Design of regular (2,dc)-LDPC codes over GF(q) using their binary images
+%T Incremental Redundancy for Coding
+%T Interference Management for Cognitive Radio Systems Exploiting Primary IR-HARQ: a Constrained Markov Decision Process approach
+%T Mutual-information based rate-adaptation for Multi-User TH-IR-UWB coded system
+%T Frame synchronization techniques for non-binary LDPC codes over GF(q)
+%T Blind frame synchronization of Reed-Solomon codes: non binary vs. binary approach
+%T Joint source-channel decoding schemes based on structured LDPC codes: asymptotic analysis and code design
+%T Middleware Based Executive for Embedded Reconfigurable Platforms
+%T The Hippocampo-cortical Loop: Spatio-Temporal Learning and Goal-oriented Planning in Navigation
+%T Toward All Optical Interconnections in Chip Multiprocessor (2)
+%T Distance Distribution For Turbo-Equalized Systems over static frequency-selective channels
+%T Performance Analysis of Turbo-equalized Systems over Frequency-Selective Block-Fading channels
+%T Phase Precoding with Integrated Turbo-Equalization for Packet Retransmissions
+%T Packet combining for turbo-diversity in HARQ systems with integrated turbo-equalization
+%T On cyclic frequency diversity for single-carrier packet retransmissions
+%T Bit-interleaving diversity for HARQ transmission over MIMO frequency-selective channels
+%T Packet Combining for Multi-Layer Hybrid-ARQ over Frequency-Selective Fading Channels
+%T Multi-layer Hybrid-ARQ Protocol for Block-Fading Channels
+%T Some New Results on LT and Raptor Codes
+%T Extrinsic distortion based Source-Channel allocation for Wireless JPEG2000 transcoding systems
+%T Performances des codes LDPC pour l'Ultra-Large Bande (ULB) impulsionnelle sous approximation gaussienne généralisée des interférences
+%T Prediction Performance Method for Dynamic Task Scheduling, case study: the OLLAF Architecture
+%T Novel Approach for Modeling Very Dynamic and Flexible Real Time Applications
+%T Real-time FPGA implementation of Hough Transform using gradient and CORDIC algorithm
+%T Reconfigurable Computing: Design Methodology and Hardware Tasks Scheduling for Real-Time Image Processing
+%T New Design Approach of an FIR Filters Based FPGA-implementation for a Bio-Inspired Medical Hearing Aid
+%T Neural network hardware architecture for pattern recognition in the HESS2 project.
+%T Strong Coordination with Polar Codes
+%T Decoding by Embedding: Correct Decoding Radius and DMT Optimality
+%T Statistical Model of Shape Moments with Active Contour Evolution for Shape Detection and Segmentation
+%T Joint MAS-PDE Modeling of Forest Pest Insect Dynamics: Analysis of the Bark Beetle's Behavior
+%T Electronic hardware design of a low cost tactile sensor device for physical Human-Robot Interactions
+%T Flexible and Stable Pattern Generation by Evolving Constrained Plastic Neurocontrollers
+%T Toward Cost-Aware Semantic Caching in the Cloud
+%T Exploiting Semantic and Social Information in Recommendation Algorithms
+%T DiseaseMedia: An Information System for Helping Diagnosing and Treating Rice Diseases
+%T Graph Searching Algorithms For Semantic-Social Recommendation
+%T On the Efficient Construction of Query Optimizers for Distributed Heterogeneous Information Systems - A Generic Framework
+%T Un critère d'évaluation pour la construction de variables à base d'itemsets pour l'apprentissage supervisé multi-tables
+%T Une salle réseau modulable et mutualisable pour l'enseignement des réseaux TCP/IP
+%T Influence du couplage électromagnétique d'un signal numérique sur un signal RF au sein d'une carte
+%T Faisabilité et étude d'un synthétiseur de fréquences agile " multi-bandes "
+%T Towards embedded detection of polyps in videocolonoscopy and WCE images for early diagnosis of colorectal cancer
+%T Using simulation for supply network control
+%T Module Relocation in Heterogeneous Reconfigurable Systems-on-Chip using the Xilinx Isolation Design Flow
+%T A generic scalable simulation model for strategic supply chain management with emphasis on production activities
+%T Classification of Urban Scenes from Geo-referenced Images in Urban Street-View Context
+%T Utilisation de règles d'association pour la prédiction de valeurs manquantes
+%T DBFrequentQueries: Extraction de requêtes fréquentes
+%T Fouille de règles d'association généralisées à travers les disjonctions : Application aux données génomiques
+%T Semantic breadth first search and depth first search recommandation algorithms
+%T A novel coupled transmission-reﬂection tomography and the V-line Radon transform
+%T Combined modalities of Compton scatttering tomography
+%T New bimodal scattered radiation tomographic imaging with attenuation and electron density correction algorithm
+%T Boosted kernel for image categorization
+%T Interactive Multiscale Classification of High-Resolution Remote Sensing Images
+%T Efficient image signatures and similarities using tensor products of local descriptors
+%T L'analyse statistique implicative Méthode exploratoire et confirmatoire à la recherche de causalités
+%T Physical human-robot interaction in the handshaking case: learning of rhythmicity using oscillators neuron
+%T Proprioception and imitation: on the road to agent individuation
+%T Prototype of a radio-on-demand broadcast receiver with real time musical genre classification
+%T FPGA-based simultaneous multichannel fm broadcast receiver for audio indexing applications in consumer electronics scenarios
+%T Efficient Supervised Dimensionality Reduction for Image Categorization
+%T Calcul décentralisé de dictionnaires visuels pour l'indexation multimédia dans les bases de données réparties sur les réseaux
+%T Local polynomial space-time descriptors for actions classification
+%T Compact Vectors of Locally Aggregated Tensors for 3D shape retrieval
+%T Measurements of acoustic environments for urban soundscapes: choice of homogeneous periods, optimization of durations and selection of indicators
+%T A novel optical network on chip design for future generation of multiprocessors system on chip
+%T Statistical region based active contour using a fractional entropy descriptor: Application to nuclei cell segmentation in confocal microscopy images
+%T Interval-Passing Algorithm for Non-Negative Measurement Matrices: Performance and Reconstruction Analysis
+%T Inverse Determinant Sums and Connections Between Fading Channel Information Theory and Algebra
+%T Towards real-time in situ polyp detection in WCE images using a boosting-based approach
+%T Attenuation Correction in a new modality of Compton Scattering Tomography
+%T Attenuation correction in a new modality of Compton scattering tomography
+%T Evidence of chaos in the Belief Propagation for LDPC codes
+%T Interest of spatial context for a place cell based navigation model
+%T Interest of Spatial Context for a Place Cell Based Navigation Model
+%T How Can a Robot Evaluate its own Behavior ? A Neural Model for Self-Assessment
+%T Frustration: a generic mechanism to improve autonomy in robotics.
+%T Impact de la ligne de transmission pour des interconnexions RF d'un réseau sur puce
+%T Towards a 3-D Model of Disappeared Parts of the Château de Versailles?
+%T JKernelMachines: A Simple Framework for Kernel Machines
+%T 3D Shape Similarity Using Vectors of Locally Aggregated Tensors
+%T A 0.8-11GHz 0.15um pHEMT Reconfigurable Low Power Consumption Distributed Low Noise Amplifier for Wireless Home Networks
+%T On-wafer multi-port circuits charaterization technique with a two-port VNA
+%T Étude et conception d'une architecture d'amplificateur faible bruit avec réveil reconfigurable
+%T Web scale image retrieval using compact tensor aggregation of visual descriptors
+%T Modeling the Minimal Newborn's Intersubjective Mind: the Visuotopic-Somatotopic Alignment Hypothesis in the Superior Colliculus
+%T Explaining Neonate Facial Imitation from the Sensory Alignment in the Superior Colliculus
+%T Contribution of the Cholinergic Innervation to Early Memory Development in the Neonate Para-Hippocampal System
+%T Frustration as a way toward autonomy and self-improvement in robotic navigation.
+%T Chapitre 18 - Reconnaissance et indexation 3D
+%T Generic top-k query processing with breadth-first strategies
+%T FPGA Implementation of Hierarchical Enumerative Coding for Locally Stationary Image Source
+%T FPGA vs DSP: A Throughput and Power Efficiency Comparison for Hierarchical Enumerative Coding
+%T Dynamic Multi-Probe LSH: an I/O Efficient Index Structure for Approximate Nearest Neighbor Search
+%T Contribution à l'intégration matérielle du codeur vidéo pour l'imagerie médicale MM-Waaves
+%T Combining Synchrony and shape detection to sustain the robot focus of attention on a selected human partner
+%T Intuitive Human Robot Interaction based on unintentional synchrony: a psycho-experimental study
+%T On the efficient construction of Query Optimizers for Distributed Heterogeneous Information Systems - A Generic Framework
+%T Cyclope : vers une vidéocapsule intelligente pour la détection in situ des polypes colorectaux
+%T Fronto-hippocampal-striatal loops and hierarchical behavioural control: A neural Network model
+%T Frontal cortex, hippocampus, and striatum in behavioural simulation and control
+%T Mémoire, Métacognition et Conscience
+%T Automated Detection and Fine Segmentation of Defects Signature in Pipelines using US Thickness Images
+%T Towards embedded detection of polyps in WCE images for early diagnosis of colorectal cancer
+%T Développement et validation d'un algorithme de reconnaissance automatique de polypes coliques
+%T Design and Analysis of System on a Chip Encoder for Locally Stationary Image Source
+%T Analyse d'images IRM cardiaques marquées
+%T Tagged MR cardiac images analysis
+%T Wavelet compression of numerical chest radiographs: a quantitative evaluation of the degradations of reconstructed images
+%T Une salle modulable et mutualisable pour l'enseignement des réseaux TCP/IP
+%T Goal conditioning throw mutimodal categorisation in a simulation of rat navigation
+%T Chapter 11 : PDE Based Approach for Segmentation of Oriented Patterns (pp 207-218)
+%T Modelling and simulation results on a new Compton scattering tomography
+%T Modelling and simulation results on high sensitivity scattered gamma-ray emission imaging
+%T Novel approach to stationary transmission scanning using Compton scattered radiation
+%T Wavelets, Ridgelets and Curvelets on the Sphere
+%T Radon transforms on a class of cones with fixed axis direction
+%T Radon transforms on a class of cones with fixed axis direction
+%T Wavelet and curvelet for image deconvolution : a combined approach
+%T On a generalized X-ray transform and a new method for defect detection using the medium electronic density
+%T On a integral Transform and its Inverse in Nuclear Imaging
+%T Exact inversion of a compound conical Radon transform and a novel nuclear imaging principle
+%T Apparent Images Formation by Compton-Scattered Photons in Gamma-ray Imaging
+%T Bayesian approach with the maxium entropy principle in image reconstruction from microwave scattered field data
+%T Compton scattered radiation imaging and Bimodality
+%T On a class of generalized Radon transforms in R^3 and its use in imaging science
+%T Novel ultrasonic imaging modality based on circular integral data
+%T Reconstruction of a attenuation map using Compton scattered radiation due to a radionucleide point source
+%T Curvelet transform on the sphere
+%T New defect detection method using scatered radiation
+%T Novel transmission imaging using second order scattered ionizing radiation
+%T Modelling and simulation for scattered gamma-ray imaging
+%T Inversion of Compton scattered data as a new imaging principle for investigative material science
+%T Three-dimensional object reconstruction from Compton scattered gamma-ray data
+%T Deconvolution based on the curvelet transform
+%T Physical analysis of scattered radiation and a new object reconstruction in photon imaging systems
+%T Joint space-energy deconvolution in scintigraphic imagery using a multi-energy image formation model
+%T Regularized restoration of scintigraphic images in Bayesian framework
+%T Bayesian MAP restoration of scintigraphic images
+%T A joint energy-spatial model for formation of a gamma image sequence indexed in energy
+%T Physical first order model for multi-energy image formation in gamma imagery
+%T Maximum entropy image reconstruction from the microwave exploration
+%T Tomographie basée sur le couplage de deux modalités d'imageries par transmission et par réflexion
+%T Une nouvelle méthode de tomographie basée sur le couplage transmission-réflexion
+%T Une nouvelle modalité de la tomographie Compton pour le contrôle non destructif
+%T New methods for non destructive evaluation using scattered gamma ray
+%T Approche Bayes-Markov et restauration d'images scintigraphiques
+%T Modèle de formation d'images gammagraphiques avec prise en compte de la dimension énergétique
+%T Reconstruction bayésienne 3D à partir de mesures incomplètes en imagerie à ondes diffractées
+%T Estimation simultanée de l'objet et des hyperparamètres en reconstruction d'image à partir du champ diffracé
+%T A compound regularizer for Bayesian restoration in photon imaging systems
+%T Restoration from a multi-energy scintigraphic image sequence in the Bayesian framework
+%T Neural Models For Social Development In Shared Parieto-Motor Circuits. Book Chapter 11 in "Horizons in Neuroscience Research
+%T Mirroring Maps and Action Representation through Embodied Interactions
+%T Fast Approximation of Distance Between Elastic Curves using Kernels
+%T Remote Sensing Image Representation based on Hierarchical Histogram Propagation
+%T A tensor motion descriptor based on histograms of gradients and optical flow
+%T Towards a multimodal wireless video capsule for detection of colonic polyps as prevention of colorectal cancer.
+%T Secret key generation from Gaussian sources using lattice hashing
+%T Information-Theoretic Security in Wireless Systems
+%T Proceedings of First GEODIFF Workshop
+%T Building Specific Contexts for On-line Learning of Dynamical Tasks through Non-verbal Interaction
+%T Performance Bounds for Spatially-Coupled LDPC Codes over the Block Erasure Channel
+%T A family of quantum codes with performances close to the hashing bound under iterative decoding
+%T A new design criterion for spherically-shaped division algebra-based space-time codes
+%T On the inversion of the Radon transform on a generalized Cormack-type class of curves
+%T Subcarrier allocation in coded OFDMA uplink systems: Diversity versus CFO
+%T From Self-Assessment to Frustration, A Small Step Towards Autonomy in Robotic Navigation.
+%T Hardware architecture of Self-Organizing Maps
+%T Décodeur amélioré pour le codage de source avec information adjacente compressée
+%T Improved decoding for binary source coding with coded side information
+%T Machine Learning and Content-Based Multimedia Retrieval
+%T Multi-Objective Approach for Energy-Aware Workflow Scheduling in Cloud Computing Environments
+%T Interval-Passing Algorithm for Chemical Mixture Estimation
+%T Doubly-Generalized LDPC Codes: Stability Bound Over the BEC
+%T Generalized and Doubly Generalized LDPC Codes With Random Component Codes for the Binary Erasure Channel
+%T Doubly Generalized LDPC Codes over the AWGN Channel
+%T Burst Decoding of Cyclic Codes Based on Circulant Parity-Check Matrices
+%T List Decoding Techniques for Intersymbol Interference Channels Using Ordered Statistics
+%T An RLL-Constrained LDPC Coded Recording System Using Deliberate Flipping and Flipped-Bit Detection
+%T Segmentation d'images des yeux par champs de Markov triplets : applications à la biométrie
+%T Allocation de ressources multi-débit pour la radio ULB impulsionnelle
+%T Neural Model for Learning-to-Learn of Novel Task Sets in the Motor Domain
+%T Reading motor intention through mental imagery
+%T A Genetic Algorithm for Multi-Objective Optimization in Workflow Scheduling with Hard Constraints
+%T Development of first social referencing skills: Emotional interaction as a way to regulate robot behavior
+%T Interactive teaching for vision-based mobile robot: a sensory-motor approach
+%T Autonomous vision-based navigation: Goal-oriented action planning by transient states prediction, cognitive map building, and sensory-motor learning
+%T Sur la détection de points d'intérêt dans les couples d'images stéréo et végétales
+%T Classification of soil and vegetation by kernel Fisher and kernel PCA
+%T A new LBP based point of interest detector on color images
+%T Adaptive Spectrum Management in MIMO-OFDM Cognitive Radio: An Exponential Learning Approach
+%T Decentralized K-means using randomized Gossip protocols for clustering large datasets
+%T Higher-order Occurrence Pooling on Mid- and Low-level Features: Visual Concept Detection
+%T A Power-Efficient Adaptive Heapsort for FPGA-based Image Coding Application
+%T Accelerating Heap-based Priority Queue in Image Coding Application using Parallel Index-aware Tree Access
+%T IRIM at TRECVID 2013: Semantic Indexing and Instance Search
+%T Learning by Imitation for the Improvement of the Individual and the Social Behaviors of Self-Organized Autonomous Agents
+%T Fuzzy Counter-Ant for Avoiding the Stagnation of Multirobot Exploration
+%T Robustness study of a multimodal compass inspired form HD-Cells and Dynamic neural fields
+%T Generalized Belief Propagation to break trapping sets in LDPC codes
+%T WiNoCoD : Un réseau d'interconnexion hiérarchique RF pour les MPSoC
+%T Dimensionality reduction in decentralized networks by Gossip aggregation of principal components analyzers
+%T New methodology design for future generation of Optical Network on Chip "ONoC"
+%T Optimized configuration for 3D optical network on chip
+%T Commutateurs optiques multicouches pour les futures générations de réseaux optiques sur puce
+%T Nanophotonic Network on Chip for Next Generation of Multiprocessors System on Chip
+%T A novel multilayer micro-ring resonator based Optical Network on Chip
+%T MRAPI Resource Management Layer on Reconfigurable Systems-on-Chip
+%T Automated Detection Of Defects Signature in Pipelines Using Ultra Sonic Thickness Images
+%T Multi-shape Tasks Scheduling for Online Multitasking on FPGAs
+%T SmartEEG : a multimodal tool for EEG signals
+%T Covariance Descriptors for 3D Shape Matching and Retrieval
+%T Evaluation of Second-order Visual Features for Land-Use Classification
+%T Context-based exploitation of Data Warehouses
+%T FPGA implementation of reconfigurable ADPLL network for distributed clock generation
+%T Rate-adaptive Secure HARQ Protocol for Block-Fading Channels
+%T Revisiting the Fisher vector for fine-grained classification
+%T PHOTOGRAPHIC PAPER TEXTURE CLASSIFICATION USING MODEL DEVIATION OF LOCAL VISUAL DESCRIPTORS
+%T Building Specific Contexts for On-line Learning of Dynamical Tasks through Non-verbal Interaction
+%T Cooperation of S-R habit and cognitive learnings in goal-oriented navigation
+%T A context based decision making architecture for a navigation task
+%T Efficient Dimension Reduction Of Global Signature With Sparse Projectors For Image Near Duplicate Retrieval
+%T An OFDMA Based RF Interconnect for Massive Multi-core Processors
+%T Towards Intelligent Capsules for Robust Wireless Endoscopic Imaging of the Gut
+%T Sizing of the Physical Layer of a RF Intra-Ship communications
+%T Cortical chunks learning for action selection in a complex task
+%T Exploiting the gain-modulation mechanism in parieto-motor neurons: Application to visuomotor transformations and embodied simulation
+%T SEMANTIC POOLING FOR IMAGE CATEGORIZATION USING MULTIPLE KERNEL LEARNING
+%T INCREMENTAL LEARNING OF LATENT STRUCTURAL SVM FOR WEAKLY SUPERVISED IMAGE CLASSIFICATION
+%T Mario, Warcraft ou Pokemon ? La programmation de jeux vidéo comme motivation dans l'apprentissage des sciences informatiques
+%T Efficient and Effective Hierarchical Feature Propagation
+%T DIMENSIONALITY REDUCTION OF VISUAL FEATURES USING SPARSE PROJECTORS FOR CONTENT-BASED IMAGE RETRIEVAL
+%T Belief-function based framework for deformable 3D-shape retrieval
+%T 3D Shape classification using information fusion
+%T Fast and power efficient heapsort IP for image compression application
+%T Flexible Radio Interface for NoC RF-Interconnect
+%T Flexible Radio Interface for NoC RF-Interconnect
+%T A Unified framework for local visual descriptors evaluation
+%T Computer-Assisted Segmentation of Videocapsule Images Using Alpha-Divergence-Based Active Contour In The Framework of Intestinal Pathologies Detection
+%T Semantically Secure Lattice Codes for the Gaussian Wiretap Channel
+%T Sizing of the Physical Layer of a RF Intra-Chip Communications
+%T DiseaseMedia: An Information System for Helping Diagnosing and Treating Rice Diseases
+%T International Conference on Management of Emergent Digital EcoSystems, MEDES '12, Addis Ababa, Ethiopia, October 28-31, 2012
+%T Enhancing Multimedia Data Fragmentation
+%T 3D MODELS OVER THE CENTURIES: FROM OLD FLOOR PLANS TO 3D REPRESENTATION
+%T Towards a novel approach to multimedia data mixed fragmentation
+%T Local polynomial space–time descriptors for action classification
+%T Influence of loudness of noise events on perceived sound quality in urban context
+%T A neural processing unit for self-organizing maps
+%T Special Issue: Pattern Recognition
+%T Embedded and real-time architecture for bio-inspired vision-based robot navigation
+%T Exploiting the gain-modulation mechanism in parieto-motor neurons: Application to visuomotor transformations and embodied simulation
+%T Correlation between channel state and information source with empirical coordination constraint
+%T 3D Head-Mounted Antenna Array Architecture Optimization based on the Fisher Information Matrix
+%T BlenderCAVE: A multimodal scene graph editor for Virtual Reality
+%T CAVE-based Virtual Prototyping of an Audio Radiogoniometer: Ecological Validity Assessment
+%T Multifactor Models: Examining the potential of signal processing techniques
+%T Scheduled-PEG construction of LDPC codes for Upper-Layer FEC
+%T Effects of Hebbian learning on the dynamics and structure of random networks with inhibitory and excitatory neurons.
+%T A mathematical analysis of the effects of Hebbian learning rules on the dynamics and structure of discrete-time random recurrent neural networks.
+%T Mining Multi-Dimensional and Multi-Level Sequential Patterns
+%T TIGER: Querying a Relational Table through Criteria Extension
+%T CBGP: Classication Based on Gradual Patterns
+%T Systèmes embarqués pour la santé : Quels enjeux & quelles forces en présence
+%T The design of embedded architectures: from decoding LDPC to reconfigurable systems on chip
+%T Towards a common hardware/software specification and implementation approach for distributed, rel time and embedded systems, based on middlewares and object-oriented components
+%T Study of Active Filters Topologies for Telecommunications Applications
+%T Efficient content based image retrieval systems for large scale images database
+%T Contributions à l'étude et à l'optimisation de systèmes à composantes itératives.
+%T Extraction and recognition of object in the facades of Paris using graph matching.
+%T Learning methods for category retrieval in image databases
+%T Mining pattern in relational databases.
+%T Appariement inexact de graphes appliqué à la recherche d'image et d'objet 3D.
+%T On a generic query optimization framework in heterogeneous and distributed environments
+%T Hippocampal coding of spatio-temporal transitions for autonomous behavior learning in robotic tasks of sensori-motor navigation and planning
+%T Vers la modélisation grand échelle d'environnements urbains à partir d'images
+%T Bio-inspired control and genesis of rhythmic movements in robotics
+%T Learning of new behaviors : toward epigenetic development of an autonomous robot.
+%T Analysis and Design of Raptor Codes for Multicast Wireless Channels
+%T Codes LDPC non-binaire de nouvelle generation
+%T Allocation de ressources : optimisation des symboles pilotes et de la voie de retour
+%T Allocation de ressources pour la transmission de données multimedia scalables
+%T Frequency synchronization for carrier allocation in uplink OFDMA systems
+%T Algorithmes d'Allocation de Ressources en OFDM Multi-Utilisateurs sous Contraintes de Qualité de Service
+%T Spectrum Sharing under Interference Constraints
+%T Diversity Techniques for HARQ Transmissions over Frequency-Selective Channels
+%T High-level simulation of distributed real-time operating systems for design space exploration in heterogeneous MPSoC architectures
+%T Exploration architecturale pour la conception d'un système sur puce de vision robotique, adéquation algorithme-architecture d'un système embarqué temps-réel
+%T Mise en oeuvre d'une architecture de reconnaissance de formes pour la détection de particules à partir d'images atmosphériques.
+%T Architectural exploration for the design of a robotic vision System-on-Chip, algorithm-architecture adequacy of a real-time embedded system
+%T Low Complexity Iterative Algorithms for Channel Coding and Compressed Sensing
+%T Prediction and estimation of very low error rates for encoded communication channels.
+%T Iterative decoding beyond belief propagation for low-density parity-check codes.
+%T Semi-automatic Classification of Remote Sensing Images
+%T Modeling emotional mechanisms for an autonomous robot : a developmental and social perspective
+%T Interactive Learning in Autonomous Robotics : towards new kinds of HMI
+%T Multicriteria top-k query processing and application to content-based search in multimedia databases
+%T Design and optimization of communicating electronic circuits for an integration in a credit card size
+%T Distributed Content Based Image Retrieval using a Multi-Agent System
+%T Contributions to Image Processing in the Perspective of Medical Applications: From CAD to Embedded Systems for In Situ Diagnosis
